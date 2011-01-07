@@ -18,6 +18,9 @@
 ==Class specific menus==
 
 ----
+==Freezecam===
+
+----
 ==Main menu==
 
 ----
