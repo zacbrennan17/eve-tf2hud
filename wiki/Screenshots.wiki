@@ -1,0 +1,24 @@
+
+----
+===Class/Team menu===
+
+----
+===Full view===
+
+----
+===Scoreboard===
+
+----
+===Target ID===
+
+----
+===Class specific menus===
+
+----
+===Main menu===
+
+----
+===Loading screen===
+
+----
+===Server/Map info===
