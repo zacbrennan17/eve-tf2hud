@@ -1,24 +1,27 @@
+#summary Plenty of images!
+----
+==Class/Team menu==
 
 ----
-===Class/Team menu===
+==Full view==
 
 ----
-===Full view===
+==Scoreboard==
 
 ----
-===Scoreboard===
+==Target ID==
 
 ----
-===Target ID===
+==Objectives==
 
 ----
-===Class specific menus===
+==Class specific menus==
 
 ----
-===Main menu===
+==Main menu==
 
 ----
-===Loading screen===
+==Loading screen==
 
 ----
-===Server/Map info===
+==Server/Map info==
