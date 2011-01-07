@@ -15,7 +15,7 @@
 ==Objectives==
 
 ----
-==Class specific menus==
+==Class specific elements==
 
 ----
 ==Freezecam===
