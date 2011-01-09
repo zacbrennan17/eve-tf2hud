@@ -15,6 +15,25 @@
 
 ----
 ==Objectives==
+(koth)
+
+[http://img64.imageshack.us/img64/944/tf220110107155043.jpg http://img210.imageshack.us/img210/9559/kothgamemode.jpg]
+
+(arena)
+
+[http://img842.imageshack.us/img842/8199/arenawatchtower0004.jpg http://img214.imageshack.us/img214/1252/arenagamemode.jpg]
+
+(CTF)
+
+[http://img155.imageshack.us/img155/7489/tf220110109164844.jpg http://img195.imageshack.us/img195/6339/ctfgamemode.jpg]
+
+(payload race)
+
+[http://img840.imageshack.us/img840/4145/tf220110109165354.jpg http://img703.imageshack.us/img703/6544/plrgamemode.jpg]
+
+(payload)
+
+[http://img638.imageshack.us/img638/3712/tf220110109165720.jpg http://img17.imageshack.us/img17/4226/plgamemode.jpg]
 
 ----
 ==Class specific elements==
@@ -24,6 +43,7 @@
 
 ----
 ==Main menu==
+(background not included, yet)
 http://img222.imageshack.us/img222/4214/mainmenukk.jpg
 
 ----
