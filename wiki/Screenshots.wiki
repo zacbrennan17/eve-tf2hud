@@ -1,15 +1,16 @@
 #summary Plenty of images!
+
+*Some images are cropped, click on them to see full version.*
+----
+==Main view==
+[http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img17.imageshack.us/img17/6325/playerhealth.jpg]
+
+
+
 ----
 ==Class/Team menu==
 [http://img513.imageshack.us/img513/9694/tf220110107153532.jpg http://img831.imageshack.us/img831/5489/classmenu.jpg]
 [http://img694.imageshack.us/img694/9628/tf220110107153906.jpg http://img156.imageshack.us/img156/8431/teammenu.jpg]
-
-----
-==Full view==
-
-----
-==Scoreboard==
-http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
 
 ----
 ==Target ID==
@@ -40,8 +41,24 @@ http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
 ----
 ==Class specific elements==
 [http://oi55.tinypic.com/33ogp6f.jpg http://oi56.tinypic.com/i4fhj6.jpg]
+[http://oi55.tinypic.com/2mw6xp4.jpg http://oi55.tinypic.com/2pyut5c.jpg]
 
 [http://oi54.tinypic.com/ocox2.jpg http://oi56.tinypic.com/33kzrxt.jpg]
+[http://img155.imageshack.us/img155/7489/tf220110109164844.jpg http://img718.imageshack.us/img718/7097/revengepanel.jpg]
+
+[http://img28.imageshack.us/img28/4399/tf220110109162633.jpg http://oi53.tinypic.com/4qmt5d.jpg]
+
+[http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
+
+----
+==Winpanels==
+[http://img407.imageshack.us/img407/6417/tf220110109170149.jpg http://img801.imageshack.us/img801/7654/winpanel.jpg]
+
+[http://img522.imageshack.us/img522/746/tf220110109191709.jpg http://img193.imageshack.us/img193/91/arenawinpanel.jpg]
+
+----
+==Scoreboard==
+http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
 
 ----
 ==Freezecam===
