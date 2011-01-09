@@ -1,0 +1,4 @@
+#summary Shows a difference between interface modes.
+
+= whoops =
+it's empty!
