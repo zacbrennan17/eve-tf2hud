@@ -1,4 +1,4 @@
-#summary Plenty of images!
+#summary See it in action!
 
 *Some images are cropped, click on them to see full version.*
 ----
@@ -49,6 +49,7 @@
 [http://img28.imageshack.us/img28/4399/tf220110109162633.jpg http://oi53.tinypic.com/4qmt5d.jpg]
 
 [http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
+[http://img140.imageshack.us/img140/8826/tf220110109193611.jpg http://img253.imageshack.us/img253/8238/scoutmeters.jpg]
 
 ----
 ==Winpanels==
