@@ -1,4 +1,4 @@
 #summary Patch history.
-*version 1.0* (10.01.2011)
+*version 1.00* (10.01.2011)
 
   * Initial public release
