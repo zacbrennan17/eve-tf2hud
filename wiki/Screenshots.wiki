@@ -27,7 +27,7 @@
 
 (CTF)
 
-[http://img155.imageshack.us/img155/7489/tf220110109164844.jpg http://img195.imageshack.us/img195/6339/ctfgamemode.jpg]
+[http://img405.imageshack.us/img405/7489/tf220110109164844.jpg http://img259.imageshack.us/img259/6339/ctfgamemode.jpg]
 
 (payload race)
 
@@ -42,8 +42,8 @@
 [http://oi55.tinypic.com/33ogp6f.jpg http://oi56.tinypic.com/i4fhj6.jpg]
 [http://oi55.tinypic.com/2mw6xp4.jpg http://oi55.tinypic.com/2pyut5c.jpg]
 
-[http://oi54.tinypic.com/ocox2.jpg http://oi56.tinypic.com/33kzrxt.jpg]
-[http://img155.imageshack.us/img155/7489/tf220110109164844.jpg http://img718.imageshack.us/img718/7097/revengepanel.jpg]
+[http://img547.imageshack.us/img547/4366/tf220110109163352.jpg http://img405.imageshack.us/img405/424/buildpanel.jpg]
+[http://img405.imageshack.us/img405/7489/tf220110109164844.jpg http://img703.imageshack.us/img703/7097/revengepanel.jpg]
 
 [http://img28.imageshack.us/img28/4399/tf220110109162633.jpg http://oi53.tinypic.com/4qmt5d.jpg]
 
@@ -52,7 +52,7 @@
 
 ----
 ==Winpanels==
-[http://img407.imageshack.us/img407/6417/tf220110109170149.jpg http://img801.imageshack.us/img801/7654/winpanel.jpg]
+[http://img407.imageshack.us/img407/6417/tf220110109170149.jpg http://img811.imageshack.us/img811/7654/winpanel.jpg]
 
 [http://img522.imageshack.us/img522/746/tf220110109191709.jpg http://img193.imageshack.us/img193/91/arenawinpanel.jpg]
 
@@ -62,7 +62,7 @@ http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
 
 ----
 ==Freezecam===
-[http://oi51.tinypic.com/11l0i8j.jpg http://oi56.tinypic.com/9gkkf4.jpg]
+[http://img510.imageshack.us/img510/2919/tf220110109163430.jpg http://img13.imageshack.us/img13/1535/freezecam.jpg]
 ----
 ==Main menu==
 (background not included, yet)
