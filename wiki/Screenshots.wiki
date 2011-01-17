@@ -4,16 +4,16 @@
 ----
 ==Main elements==
 [http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img17.imageshack.us/img17/6325/playerhealth.jpg]
-[http://oi55.tinypic.com/2mw6xp4.jpg http://oi56.tinypic.com/2qwodpg.jpg]
+[http://img80.imageshack.us/img80/8000/tf220110109184553.jpg http://img641.imageshack.us/img641/9206/ammo.jpg]
 
 ----
 ==Class/Team menu==
-[http://img513.imageshack.us/img513/9694/tf220110107153532.jpg http://img831.imageshack.us/img831/5489/classmenu.jpg]
-[http://img694.imageshack.us/img694/9628/tf220110107153906.jpg http://img156.imageshack.us/img156/8431/teammenu.jpg]
+[http://img210.imageshack.us/img210/9694/tf220110107153532.jpg http://img262.imageshack.us/img262/5489/classmenu.jpg]
+[http://img191.imageshack.us/img191/9628/tf220110107153906.jpg http://img684.imageshack.us/img684/8431/teammenu.jpg]
 
 ----
 ==Target ID==
-[http://img28.imageshack.us/img28/4399/tf220110109162633.jpg http://img683.imageshack.us/img683/8414/targetid.jpg]
+[http://img585.imageshack.us/img585/4399/tf220110109162633.jpg http://img89.imageshack.us/img89/8414/targetid.jpg]
 
 ----
 ==Objectives==
@@ -39,13 +39,13 @@
 
 ----
 ==Class specific elements==
-[http://oi55.tinypic.com/33ogp6f.jpg http://oi56.tinypic.com/i4fhj6.jpg]
-[http://oi55.tinypic.com/2mw6xp4.jpg http://oi55.tinypic.com/2pyut5c.jpg]
+[http://img534.imageshack.us/img534/3071/tf220110107153937.jpg http://img819.imageshack.us/img819/1358/disguisepanel.jpg]
+[http://img80.imageshack.us/img80/8000/tf220110109184553.jpg http://img249.imageshack.us/img249/6245/disguisestatus.jpg]
 
 [http://img547.imageshack.us/img547/4366/tf220110109163352.jpg http://img405.imageshack.us/img405/424/buildpanel.jpg]
 [http://img405.imageshack.us/img405/7489/tf220110109164844.jpg http://img703.imageshack.us/img703/7097/revengepanel.jpg]
 
-[http://img28.imageshack.us/img28/4399/tf220110109162633.jpg http://oi53.tinypic.com/4qmt5d.jpg]
+[http://img585.imageshack.us/img585/4399/tf220110109162633.jpg http://img443.imageshack.us/img443/7237/ubercharge.jpg]
 
 [http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
 [http://img140.imageshack.us/img140/8826/tf220110109193611.jpg http://img253.imageshack.us/img253/8238/scoutmeters.jpg]
