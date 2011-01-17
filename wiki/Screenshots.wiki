@@ -1,6 +1,6 @@
 #summary See it in action!
 
-*Some images are cropped, click on them to see full version.*
+*Some images are cropped, click on them to see a full version.*
 ----
 ==Main elements==
 [http://img29.imageshack.us/img29/6277/tf220110109191845.jpg http://img836.imageshack.us/img836/6325/playerhealth.jpg]
