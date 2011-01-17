@@ -3,7 +3,7 @@
 *Some images are cropped, click on them to see full version.*
 ----
 ==Main elements==
-[http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img17.imageshack.us/img17/6325/playerhealth.jpg]
+[http://img29.imageshack.us/img29/6277/tf220110109191845.jpg http://img836.imageshack.us/img836/6325/playerhealth.jpg]
 [http://img80.imageshack.us/img80/8000/tf220110109184553.jpg http://img641.imageshack.us/img641/9206/ammo.jpg]
 
 ----
@@ -47,7 +47,7 @@
 
 [http://img585.imageshack.us/img585/4399/tf220110109162633.jpg http://img443.imageshack.us/img443/7237/ubercharge.jpg]
 
-[http://img833.imageshack.us/img833/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
+[http://img29.imageshack.us/img29/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
 [http://img140.imageshack.us/img140/8826/tf220110109193611.jpg http://img253.imageshack.us/img253/8238/scoutmeters.jpg]
 
 ----
