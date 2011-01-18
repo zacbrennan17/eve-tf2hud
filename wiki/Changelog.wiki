@@ -1,4 +1,18 @@
 #summary Patch history.
+
+----
+*version 1.10* (18.01.2011)
+
+  * added a "move this building" panel
+  * various scoreboard fixes
+  * main menu fixes
+  * freezecam tweaks
+  * various minmode fixes (player's health will pulse in blue when overhealed)
+  * new overrides:
+    * alternative damage colors
+    * new scoreboard variants
+    * more visible player's health
+----
 *version 1.00* (10.01.2011)
 
   * Initial public release
