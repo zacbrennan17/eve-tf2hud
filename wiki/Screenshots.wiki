@@ -38,6 +38,10 @@
 [http://img638.imageshack.us/img638/3712/tf220110109165720.jpg http://img17.imageshack.us/img17/4226/plgamemode.jpg]
 
 ----
+==Item switch==
+[http://img441.imageshack.us/img441/6171/cpcoldfront0004.jpg http://img834.imageshack.us/img834/66/quickswitch.jpg]
+
+----
 ==Class specific elements==
 [http://img534.imageshack.us/img534/3071/tf220110107153937.jpg http://img819.imageshack.us/img819/1358/disguisepanel.jpg]
 [http://img80.imageshack.us/img80/8000/tf220110109184553.jpg http://img249.imageshack.us/img249/6245/disguisestatus.jpg]
@@ -60,6 +64,7 @@
 ----
 ==Scoreboard==
 http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
+http://img404.imageshack.us/img404/6513/cpdustbowl0003d.jpg
 
 ----
 ==Freezecam===
