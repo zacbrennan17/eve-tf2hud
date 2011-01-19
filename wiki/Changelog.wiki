@@ -1,6 +1,10 @@
 #summary Patch history.
 
 ----
+*version 1.11* (20.01.2011)
+
+  * compatibility with a latest TF2 patch
+----
 *version 1.10* (18.01.2011)
 
   * added a "move this building" panel (hacky job but whatever works, valve... :shakesfist:)
