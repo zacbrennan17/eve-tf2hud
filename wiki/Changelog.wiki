@@ -3,7 +3,7 @@
 ----
 *version 1.10* (18.01.2011)
 
-  * added a "move this building" panel
+  * added a "move this building" panel (hacky job but whatever works, valve... :shakesfist:)
   * various scoreboard fixes
   * main menu fixes
   * freezecam tweaks
