@@ -43,16 +43,20 @@
 
 ----
 ==Class specific elements==
+===Spy===
 [http://img534.imageshack.us/img534/3071/tf220110107153937.jpg http://img819.imageshack.us/img819/1358/disguisepanel.jpg]
 [http://img80.imageshack.us/img80/8000/tf220110109184553.jpg http://img249.imageshack.us/img249/6245/disguisestatus.jpg]
 
+===Engineer===
 http://img405.imageshack.us/img405/424/buildpanel.jpg
 http://img213.imageshack.us/img213/5190/demolishmenu.jpg
 http://img703.imageshack.us/img703/7097/revengepanel.jpg
 http://img340.imageshack.us/img340/3500/buildingsu.jpg
 
+===Medic===
 [http://img585.imageshack.us/img585/4399/tf220110109162633.jpg http://img443.imageshack.us/img443/7237/ubercharge.jpg]
 
+===Charge meters===
 [http://img29.imageshack.us/img29/6277/tf220110109191845.jpg http://img141.imageshack.us/img141/9011/snipermeters.jpg]
 [http://img140.imageshack.us/img140/8826/tf220110109193611.jpg http://img253.imageshack.us/img253/8238/scoutmeters.jpg]
 
