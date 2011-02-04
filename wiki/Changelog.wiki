@@ -1,7 +1,7 @@
 #summary Patch history.
 *version 1.22* (04.02.2011)
 
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * small tweaks to a team/class menu
 ----
 *version 1.20* (23.01.2011)
@@ -15,7 +15,7 @@
 ----
 *version 1.11* (20.01.2011)
 
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 1.10* (18.01.2011)
 
