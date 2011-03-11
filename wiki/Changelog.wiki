@@ -1,5 +1,9 @@
 #summary Patch history.
 
+*version 1.31* (11.03.2011)
+
+  * fix for a sneaky unneeded button in the main menu
+----
 *version 1.30* (11.03.2011)
 
   * compatibility with the latest TF2 patch
