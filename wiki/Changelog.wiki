@@ -1,4 +1,18 @@
 #summary Patch history.
+
+*version 1.30* (11.03.2011)
+
+  * compatibility with the latest TF2 patch
+  * main menu changes ("show promo codes" button)
+  * small tweaks to:
+    * tournament spectator panel
+    * 4:3 resolutions
+    * player's status panel
+    * charge meters
+  * new overrides:
+    * no health or ammo animation
+    * old overrides are now available for 4:3 resolutions
+----
 *version 1.22* (04.02.2011)
 
   * compatibility with the latest TF2 patch
