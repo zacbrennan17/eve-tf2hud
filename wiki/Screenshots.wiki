@@ -27,7 +27,7 @@
 
 (CTF)
 
-[http://img405.imageshack.us/img405/7489/tf220110109164844.jpg http://img259.imageshack.us/img259/6339/ctfgamemode.jpg]
+http://img259.imageshack.us/img259/6339/ctfgamemode.jpg
 
 (payload race)
 
@@ -77,15 +77,15 @@ http://img404.imageshack.us/img404/6513/cpdustbowl0003d.jpg
 ----
 ==Main menu==
 (background not included, yet)
-http://img408.imageshack.us/img408/1980/mainmenuj.jpg
+[http://img408.imageshack.us/img408/1980/mainmenuj.jpg http://img408.imageshack.us/img408/1980/mainmenuj.jpg]
 
 ----
 ==Loading screen==
-http://img27.imageshack.us/img27/7936/statsar.jpg
-http://img222.imageshack.us/img222/6942/stats2t.jpg
+[http://img27.imageshack.us/img27/7936/statsar.jpg http://img27.imageshack.us/img27/7936/statsar.jpg]
+[http://img222.imageshack.us/img222/6942/stats2t.jpg http://img222.imageshack.us/img222/6942/stats2t.jpg
 
 ----
 ==Server/Map info==
-http://img155.imageshack.us/img155/4743/tf220110107150145.jpg
-http://img839.imageshack.us/img839/6524/tf220110107150152.jpg
-http://img3.imageshack.us/img3/2379/tf220110107150202.jpg
+[http://img155.imageshack.us/img155/4743/tf220110107150145.jpg http://img155.imageshack.us/img155/4743/tf220110107150145.jpg]
+[http://img839.imageshack.us/img839/6524/tf220110107150152.jpg http://img839.imageshack.us/img839/6524/tf220110107150152.jpg]
+[http://img3.imageshack.us/img3/2379/tf220110107150202.jpg http://img3.imageshack.us/img3/2379/tf220110107150202.jpg]
