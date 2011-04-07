@@ -1,4 +1,4 @@
-#summary How to customize this hud
+#summary How to customize this hud.
 ==How to install==
 Inside archive you'll find a folder called "HUD". Extract its contents to the following location:
 
