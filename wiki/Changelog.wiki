@@ -1,5 +1,12 @@
 #summary Patch history.
-
+*version 1.40* (07.04.2011)
+  * small tweaks to:
+    * main menu - [http://img30.imageshack.us/img30/5766/mainmenuc.jpg image]
+    * freeze panel (it works correctly for bots and players without avatars now)
+    *  4:3 resolutions
+  * new override:
+    * alternative class and ammo panels - [http://img30.imageshack.us/img30/540/cpcoldfront0002.jpg image]
+----
 *version 1.31* (11.03.2011)
 
   * fix for a sneaky unneeded button in the main menu
