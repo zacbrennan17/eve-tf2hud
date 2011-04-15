@@ -1,4 +1,16 @@
 #summary Patch history.
+*version 1.50* (15.04.2011)
+  * compatibility with the latest TF2 patch
+  * around 30 bug fixes to various HUD elements
+  * small tweaks to:
+    * freeze panel
+    * medic's charge bar
+    * demoman's charge bar
+    * map/server info panel
+    * coaching panel
+  * "In your last life you did better..." panel is now invisible in minmode
+  * reworked "alternative class and ammo panels" override - [http://img94.imageshack.us/img94/2172/cpcoldfront0003.jpg image]
+----
 *version 1.40* (07.04.2011)
   * small tweaks to:
     * main menu - [http://img30.imageshack.us/img30/5766/mainmenuc.jpg image]
