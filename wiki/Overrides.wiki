@@ -22,3 +22,4 @@ There is one more folder called "overrides". It contains alternative version of 
   * engie buildings with borders - adds borders around buildings' status panels
   * alternative class and ammo panels - adds solid background to player's class and ammo
   * no white underlines - removes white lines under player's health/ammo
+  * original items colors - restores default colors for items' descriptions
