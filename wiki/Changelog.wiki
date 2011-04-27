@@ -1,4 +1,12 @@
 #summary Patch history.
+*version 1.54* (27.04.2011)
+  * fixed some bugs reported by users
+  * small tweaks to:
+    * freeze panel
+    * items' coloring
+  * new override:
+    * original items colors - restores default colors for items' descriptions
+----
 *version 1.50* (15.04.2011)
   * compatibility with the latest TF2 patch
   * around 30 bug fixes to various HUD elements
