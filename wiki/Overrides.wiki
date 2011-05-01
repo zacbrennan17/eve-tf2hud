@@ -6,6 +6,7 @@ _Steam/steamapps/yourusername/team fortress 2/tf/_
 ==Overrides==
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
+  * *no white underlines - removes white lines under player's health/ammo*
   * 4:3 fixes - this will fix small errors in 4:3 aspect ratio
   * scoreboards:
     * 24p scoreboard (no minmode) - disables an alternative scoreboard in minmode
@@ -21,5 +22,4 @@ There is one more folder called "overrides". It contains alternative version of 
   * more visible player's health - adds a border around player's current health (yes, I made it look like that)
   * engie buildings with borders - adds borders around buildings' status panels
   * alternative class and ammo panels - adds solid background to player's class and ammo
-  * no white underlines - removes white lines under player's health/ammo
   * original items colors - restores default colors for items' descriptions
