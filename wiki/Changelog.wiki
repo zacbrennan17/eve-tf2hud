@@ -1,4 +1,14 @@
 #summary Patch history.
+*version 1.60* (06.05.2011)
+  * compatibility with the latest TF2 patch
+  * fixed some bugs reported by users
+  * tweaks to:
+    * main menu - that's right, no more annoying clapping
+    * floating damage values - they are now smaller
+    * flag panel - it's more compact now
+    * "4:3 fixes" override - supports more resolutions
+descriptions
+----
 *version 1.54* (27.04.2011)
   * fixed some bugs reported by users
   * small tweaks to:
