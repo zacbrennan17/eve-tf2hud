@@ -7,7 +7,6 @@
     * floating damage values - they are now smaller
     * flag panel - it's more compact now
     * "4:3 fixes" override - supports more resolutions
-descriptions
 ----
 *version 1.54* (27.04.2011)
   * fixed some bugs reported by users
