@@ -77,7 +77,8 @@ http://img404.imageshack.us/img404/6513/cpdustbowl0003d.jpg
 ----
 ==Main menu==
 (background not included, yet)
-[http://img30.imageshack.us/img30/5766/mainmenuc.jpg http://img30.imageshack.us/img30/5766/mainmenuc.jpg]
+http://img198.imageshack.us/img198/5295/mainmenubs.jpg
+http://img29.imageshack.us/img29/33/mainmenu2s.jpg
 
 ----
 ==Loading screen==
@@ -86,6 +87,6 @@ http://img404.imageshack.us/img404/6513/cpdustbowl0003d.jpg
 
 ----
 ==Server/Map info==
-[http://img155.imageshack.us/img155/4743/tf220110107150145.jpg http://img155.imageshack.us/img155/4743/tf220110107150145.jpg]
-[http://img839.imageshack.us/img839/6524/tf220110107150152.jpg http://img839.imageshack.us/img839/6524/tf220110107150152.jpg]
-[http://img3.imageshack.us/img3/2379/tf220110107150202.jpg http://img3.imageshack.us/img3/2379/tf220110107150202.jpg]
+http://img827.imageshack.us/img827/842/serverinfo.jpg
+http://img839.imageshack.us/img839/187/mapinfo.jpg
+http://img16.imageshack.us/img16/534/videoinfoq.jpg
