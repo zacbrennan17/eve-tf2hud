@@ -1,6 +1,14 @@
 #summary Patch history.
+*version 1.62* (19.05.2011)
+  * compatibility with a latest TF2 patch
+  * tweaks to:
+    * main menu
+    * freeze panel
+  * new override:
+    * TF2 Beta - allows you to use this HUD in TF2 Beta (instead of a separate download)
+----
 *version 1.60* (06.05.2011)
-  * compatibility with the latest TF2 patch
+  * compatibility with a latest TF2 patch
   * fixed some bugs reported by users
   * tweaks to:
     * main menu - that's right, no more annoying clapping
@@ -17,7 +25,7 @@
     * original items colors - restores default colors for items' descriptions
 ----
 *version 1.50* (15.04.2011)
-  * compatibility with the latest TF2 patch
+  * compatibility with a latest TF2 patch
   * around 30 bug fixes to various HUD elements
   * small tweaks to:
     * freeze panel
@@ -42,7 +50,7 @@
 ----
 *version 1.30* (11.03.2011)
 
-  * compatibility with the latest TF2 patch
+  * compatibility with a latest TF2 patch
   * main menu changes ("show promo codes" button)
   * small tweaks to:
     * tournament spectator panel
@@ -55,7 +63,7 @@
 ----
 *version 1.22* (04.02.2011)
 
-  * compatibility with the latest TF2 patch
+  * compatibility with a latest TF2 patch
   * small tweaks to a team/class menu
 ----
 *version 1.20* (23.01.2011)
@@ -69,7 +77,7 @@
 ----
 *version 1.11* (20.01.2011)
 
-  * compatibility with the latest TF2 patch
+  * compatibility with a latest TF2 patch
 ----
 *version 1.10* (18.01.2011)
 
