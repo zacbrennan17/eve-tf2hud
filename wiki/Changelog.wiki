@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 1.70* (24.06.2011)
+  * coming soon
+
+----
 *version 1.62* (19.05.2011)
   * compatibility with a latest TF2 patch
   * tweaks to:
