@@ -1,7 +1,6 @@
 #summary See it in action!
 
 *Some images are cropped, click on them to see a full version.*
-*Some of them are outdated but I'll fix that soon.*
 ----
 ==Main elements==
 [http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img854.imageshack.us/img854/6325/playerhealth.jpg]
@@ -45,7 +44,7 @@ http://img17.imageshack.us/img17/4226/plgamemode.jpg
 ----
 ==Class specific elements==
 ===Spy===
-[http://img828.imageshack.us/img828/5369/disguisekitfull.jpg http://img718.imageshack.us/img718/9029/disguisekit.jpg]
+[http://img828.imageshack.us/img828/5369/disguisekitfull.jpg http://img819.imageshack.us/img819/1358/disguisepanel.jpg]
 [http://img4.imageshack.us/img4/2921/ctfturbine0004m.jpg http://img864.imageshack.us/img864/6245/disguisestatus.jpg]
 
 ===Engineer===
