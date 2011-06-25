@@ -1,20 +1,35 @@
 #summary Patch history.
 *version 1.70* (24.06.2011)
-  * coming soon
+  * compatibility with a latest TF2 patch
+  * updated for all new additions brought by the Uber Update
+    * over hyped hype meter
+    * sniper's headshot counter
+    * main menu tweaks
+  * totally reworked player's health and status panel (check out new screenshots)
+  * tweaks and fixes for:
+    * freezecam panel
+    * scoreboards
+    * backpack and loadout menu
+    * Mann Co. Store previews
+    * voting panel
+    * spy's disguise status
+  * orange is now a default color for damage meters
+  
+  * updated screenshots
 
 ----
 *version 1.62* (19.05.2011)
   * compatibility with a latest TF2 patch
-  * tweaks to:
+  * tweaks for:
     * main menu
-    * freeze panel
+    * freezecam panel
   * new override:
     * TF2 Beta - allows you to use this HUD in TF2 Beta (instead of a separate download)
 ----
 *version 1.60* (06.05.2011)
   * compatibility with a latest TF2 patch
   * fixed some bugs reported by users
-  * tweaks to:
+  * tweaks for:
     * main menu - that's right, no more annoying clapping
     * floating damage values - they are now smaller
     * flag panel - it's more compact now
@@ -22,8 +37,8 @@
 ----
 *version 1.54* (27.04.2011)
   * fixed some bugs reported by users
-  * small tweaks to:
-    * freeze panel
+  * small tweaks for:
+    * freezecam panel
     * items' coloring
   * new override:
     * original items colors - restores default colors for items' descriptions
@@ -31,8 +46,8 @@
 *version 1.50* (15.04.2011)
   * compatibility with a latest TF2 patch
   * around 30 bug fixes to various HUD elements
-  * small tweaks to:
-    * freeze panel
+  * small tweaks for:
+    * freezecam panel
     * medic's charge bar
     * demoman's charge bar
     * map/server info panel
@@ -41,9 +56,9 @@
   * reworked "alternative class and ammo panels" override - [http://img94.imageshack.us/img94/2172/cpcoldfront0003.jpg image]
 ----
 *version 1.40* (07.04.2011)
-  * small tweaks to:
+  * small tweaks for:
     * main menu - [http://img30.imageshack.us/img30/5766/mainmenuc.jpg image]
-    * freeze panel (it works correctly for bots and players without avatars now)
+    * freezecam panel (it works correctly for bots and players without avatars now)
     *  4:3 resolutions
   * new override:
     * alternative class and ammo panels - [http://img30.imageshack.us/img30/540/cpcoldfront0002.jpg image]
@@ -56,7 +71,7 @@
 
   * compatibility with a latest TF2 patch
   * main menu changes ("show promo codes" button)
-  * small tweaks to:
+  * small tweaks for:
     * tournament spectator panel
     * 4:3 resolutions
     * player's status panel
@@ -68,7 +83,7 @@
 *version 1.22* (04.02.2011)
 
   * compatibility with a latest TF2 patch
-  * small tweaks to a team/class menu
+  * small tweaks for a team/class menu
 ----
 *version 1.20* (23.01.2011)
 
