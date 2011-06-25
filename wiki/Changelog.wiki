@@ -13,6 +13,7 @@
     * Mann Co. Store previews
     * voting panel
     * spy's disguise status
+  * changing disguises and picking up intel no longer obscures your whole screen
   * orange is now a default color for damage meters
   
   * updated screenshots
