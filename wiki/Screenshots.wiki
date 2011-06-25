@@ -4,7 +4,7 @@
 *Some of them are outdated but I'll fix that soon.*
 ----
 ==Main elements==
-[http://img29.imageshack.us/img29/6277/tf220110109191845.jpg http://img836.imageshack.us/img836/6325/playerhealth.jpg]
+[http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img854.imageshack.us/img854/6325/playerhealth.jpg]
 [http://img4.imageshack.us/img4/2921/ctfturbine0004m.jpg http://img703.imageshack.us/img703/21/ammoz.jpg]
 
 ----
@@ -14,7 +14,7 @@
 
 ----
 ==Target ID==
-[http://img585.imageshack.us/img585/4399/tf220110109162633.jpg http://img89.imageshack.us/img89/8414/targetid.jpg]
+[http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img854.imageshack.us/img854/8414/targetid.jpg]
 
 ----
 ==Objectives==
@@ -24,7 +24,7 @@
 
 (arena)
 
-[http://img842.imageshack.us/img842/8199/arenawatchtower0004.jpg http://img214.imageshack.us/img214/1252/arenagamemode.jpg]
+http://img214.imageshack.us/img214/1252/arenagamemode.jpg
 
 (CTF)
 
@@ -32,11 +32,11 @@
 
 (payload race)
 
-[http://img840.imageshack.us/img840/4145/tf220110109165354.jpg http://img703.imageshack.us/img703/6544/plrgamemode.jpg]
+http://img703.imageshack.us/img703/6544/plrgamemode.jpg
 
 (payload)
 
-[http://img638.imageshack.us/img638/3712/tf220110109165720.jpg http://img17.imageshack.us/img17/4226/plgamemode.jpg]
+http://img17.imageshack.us/img17/4226/plgamemode.jpg
 
 ----
 ==Item switch==
