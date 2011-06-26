@@ -1,6 +1,8 @@
 #summary See it in action!
 
 *Some images are cropped, click on them to see a full version.*
+
+If you want to see all screenshots in full version at once go [http://code.google.com/p/eve-tf2hud/wiki/Screenshots_full here].
 ----
 ==Main elements==
 [http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img854.imageshack.us/img854/6325/playerhealth.jpg]
@@ -35,7 +37,7 @@ http://img703.imageshack.us/img703/6544/plrgamemode.jpg
 
 (payload)
 
-http://img17.imageshack.us/img17/4226/plgamemode.jpg
+[http://img801.imageshack.us/img801/1922/payloadfull.jpg http://img94.imageshack.us/img94/1212/payload.jpg]
 
 ----
 ==Item switch==
