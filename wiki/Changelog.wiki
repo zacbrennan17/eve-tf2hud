@@ -1,4 +1,14 @@
 #summary Patch history.
+*version 1.72* (01.07.2011)
+  * compatibility with a latest TF2 patch
+  * tweaks for:
+    * build menu
+    * hype meter
+    * replay reminder
+    * winpanel
+  * added a new objective screen for tc_hydro
+  * removed a few language dependencies
+----
 *version 1.70* (24.06.2011)
   * compatibility with a latest TF2 patch
   * updated for all new additions brought by the Uber Update
