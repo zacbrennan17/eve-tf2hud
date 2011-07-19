@@ -6,7 +6,7 @@ _Steam/steamapps/yourusername/team fortress 2/tf/_
 ==Overrides==
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
- * 4:3 fixes - this will fix small errors in 4:3 aspect ratio
+ * 4:3 fixes - this should fix all errors in 4:3 aspect ratio
  * alternative damage colors - this will change color of damage values:
     * pink as hell
     * red
@@ -17,8 +17,9 @@ There is one more folder called "overrides". It contains alternative version of 
  * no health or ammo animation - removes an animation when low on health or ammo
  * no last damage done - you won't see last damage done above player's weapon
  * original items colors - restores default colors for items' descriptions
+ * prophunt fix - fixes a missing time panel in prophunt/Saxton Hale gamemode
  * scoreboards:
     * 24p scoreboard (no minmode) - disables an alternative scoreboard in minmode
     * 32p scoreboard (no minmode) - allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
     * 32p scoreboard (with minmode) - allows you to see up to 32 players on the scoreboard
- * TF2 Beta - allows you to use this HUD in TF2 Beta
+ * TF2 Beta (not required) - allows you to use this HUD in TF2 Beta
