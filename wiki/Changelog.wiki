@@ -1,6 +1,20 @@
 #summary Patch history.
 *version 1.80* (19.07.2011)
-  * Coming soon
+  * compatibility with a latest TF2 patch
+  * tweaks and fixes for:
+    * flag status - should now work in all custom maps
+    * team menus
+    * round timer
+    * freezecam panel
+    * loading screen
+    * main menu
+    * notifications
+  * fixed most bugs in 4:3 aspect ratio (including valve's ones)
+  * new override:
+    * prophunt fix - fixes a missing time panel in prophunt/Saxton Hale gamemode
+  * override changes:
+    * TF2Beta - no longer required, hud will work without any changes
+    * more visible player's health - now includes additional health status in a target id panel
 ----
 *version 1.72* (01.07.2011)
   * compatibility with a latest TF2 patch
