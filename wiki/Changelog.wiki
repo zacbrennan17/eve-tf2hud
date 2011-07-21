@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 1.82* (21.07.2011)
+  * compatibility with a latest TF2 patch
+  * added charge meters for new WETA weapons
+  * further tweaks for 4:3 resolutions
+----
 *version 1.80* (19.07.2011)
   * compatibility with a latest TF2 patch
   * tweaks and fixes for:
