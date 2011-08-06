@@ -1,5 +1,7 @@
 #summary Patch history.
-
+*version 1.85* (06.08.2011)
+  * support for the Pip-Boy's menus
+----
 *version 1.84* (02.08.2011)
   * added disguise and build panels for a 360 controller - [http://img703.imageshack.us/img703/2172/cpcoldfront0003.jpg image 1], [http://img405.imageshack.us/img405/1573/cpcoldfront0006.jpg image 2]
   * tweaks and fixes for:
