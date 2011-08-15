@@ -2,7 +2,7 @@
 *version 1.90* (15.08.2011)
   * new overrides:
     * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
-    * alternative damage colors and sizes - available in 2 sizes
+    * alternative damage colors and sizes - now available in 2 sizes
   * tweaks and fixes for:
     * build menus
     * tournament setup
