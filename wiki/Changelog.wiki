@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 1.91* (21.08.2011)
+  * support for the Diamondback's crits counter
+----
 *version 1.90* (15.08.2011)
   * new overrides:
     * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
