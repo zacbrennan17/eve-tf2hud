@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 1.92* (03.09.2011)
+  * compatibility with a latest TF2 patch
+----
 *version 1.91* (21.08.2011)
   * support for the Diamondback's crits counter
 ----
