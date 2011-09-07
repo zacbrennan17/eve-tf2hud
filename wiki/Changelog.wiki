@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 1.93* (07.09.2011)
+  * update for new store pages
+----
 *version 1.92* (03.09.2011)
   * compatibility with a latest TF2 patch
 ----
