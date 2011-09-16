@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 1.94* (16.09.2011)
+  * compatibility with a latest TF2 patch
+  * sticky bomb counter is now slightly larger
+----
 *version 1.93* (07.09.2011)
   * update for new store pages
 ----
