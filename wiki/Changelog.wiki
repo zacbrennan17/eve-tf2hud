@@ -1,4 +1,12 @@
 #summary Patch history.
+*version 1.99* (14.10.2011)
+  * compatibility with a latest TF2 patch (Manniversary
+Update)
+
+  * a few things you should know:
+    * class selection menu got crippled by this update
+    * there are other small things that still need to be fixed
+----
 *version 1.94* (16.09.2011)
   * compatibility with a latest TF2 patch
   * sticky bomb counter is now slightly larger
