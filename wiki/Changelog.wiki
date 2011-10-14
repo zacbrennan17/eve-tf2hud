@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.00* (15.10.2011)
+  * general bugfixes
+  * reorganized loadout menu
+  * close button in backpack panels is back
+----
 *version 1.99* (14.10.2011)
   * compatibility with a latest TF2 patch (Manniversary Update)
 
