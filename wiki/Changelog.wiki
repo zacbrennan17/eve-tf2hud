@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.01* (18.10.2011)
+  * fixed missing labels on all scoreboards
+----
 *version 2.00* (15.10.2011)
   * general bugfixes
   * reorganized loadout menu
