@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.02* (21.10.2011)
+  * fixed the main menu background
+----
 *version 2.01* (18.10.2011)
   * fixed missing labels on all scoreboards
 ----
