@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 2.04* (28.10.2011)
+  * compatibility with a latest TF2 patch (Scream Fortress)
+  * shield's charge meter has a background now
+----
 *version 2.02* (21.10.2011)
   * fixed the main menu background
 ----
