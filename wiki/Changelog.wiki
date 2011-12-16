@@ -1,6 +1,9 @@
 #summary Patch history.
+*version 2.06* (16.12.2011)
+  * main menu now supports the Australian Christmas background
+----
 *version 2.05* (13.11.2011)
-  * main menu now supports full moon backgrounds
+  * main menu now supports the full moon background
 ----
 *version 2.04* (28.10.2011)
   * compatibility with a latest TF2 patch (Scream Fortress)
