@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.08* (21.12.2011)
+  * added missing panels for some of the new weapons
+----
 *version 2.06* (16.12.2011)
   * main menu now supports the Australian Christmas background
 ----
