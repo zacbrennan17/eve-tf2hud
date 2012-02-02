@@ -6,6 +6,13 @@ _Steam/steamapps/yourusername/team fortress 2/tf/_
 ==Overrides==
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
+ * how to change a number or a size of kill notifications:
+  # Open tf\scripts\hudlayout.res
+  # Go to line 441 (or search for "##Kill Notifications##")
+  # Change following values to your liking:
+  * "MaxDeathNotices" - maximum number of notifications visible at once
+  * "LineHeight"	- height/size of each notification
+
   * 4:3 fixes - this should fix all errors in 4:3 aspect ratio
   * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
     * amber
