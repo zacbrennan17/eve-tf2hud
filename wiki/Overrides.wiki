@@ -10,8 +10,8 @@ There is one more folder called "overrides". It contains alternative version of 
   # Open tf\scripts\hudlayout.res
   # Go to line 441 (or search for "##Kill Notifications##")
   # Change following values to your liking:
-  * "MaxDeathNotices" - maximum number of notifications visible at once
-  * "LineHeight"	- height/size of each notification
+  * "!MaxDeathNotices" - maximum number of notifications visible at once
+  * "!LineHeight"	- height/size of each notification
 
   * 4:3 fixes - this should fix all errors in 4:3 aspect ratio
   * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
