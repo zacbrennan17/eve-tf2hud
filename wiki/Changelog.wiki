@@ -1,6 +1,18 @@
 #summary Patch history.
 *version 2.11* (02.02.2012)
-  * coming soon
+  * new main menu
+  * reorganized class selection menu
+  * floating damage done to enemies now has an outline
+  * I explained how to change a number or a size of kill notifications (see "[http://code.google.com/p/eve-tf2hud/wiki/Overrides Overrides]" section)
+  * a lot of bugfixed for the 4:3 mode
+  * tweaks and fixes for:
+    * scoreboard
+    * respawn countdown
+    * tournament 
+    * various elements in the Mann Co. Store
+    * replay browser
+  * general bugfixes
+  * and more
 ----
 *version 2.08* (21.12.2011)
   * added missing panels for some of the new weapons
@@ -13,7 +25,7 @@
 ----
 *version 2.04* (28.10.2011)
   * compatibility with a latest TF2 patch (Scream Fortress)
-  * shield's charge meter has a background now
+  * shield's charge meter now has a background
 ----
 *version 2.02* (21.10.2011)
   * fixed the main menu background
