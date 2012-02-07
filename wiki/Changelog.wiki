@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.12* (21.12.2011)
+  * fixed a missing tournament spectator panel (thanks sfassfas)
+----
 *version 2.11* (02.02.2012)
   * new main menu
   * reorganized class selection menu
