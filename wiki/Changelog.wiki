@@ -1,5 +1,10 @@
 #summary Patch history.
-*version 2.12* (21.12.2011)
+*version 2.13* (23.03.2012)
+  * fixed missing labels in the loadout menu
+  * new override:
+    * open space main menu - moves menu buttons to the far left
+----
+*version 2.12* (21.02.2012)
   * fixed a missing tournament spectator panel (thanks sfassfas)
 ----
 *version 2.11* (02.02.2012)
