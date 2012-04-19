@@ -1,7 +1,18 @@
 #summary Patch history.
 
 *version 2.20* (19.04.2012)
-  * coming soon
+  * last damage done displayed above your weapon will disappear after 5 seconds
+  * scoreboard has been heavily modified (especially the minimalistic version)
+  * killcam has been heavily modified
+  * I fixed the replays manager (I have no idea why valve left it in such a bad state)
+  * respawn countdown will no longer be obscured by a replay reminder
+  * small tweaks and fixes for:
+    * main menu
+    * tournament spectator panels
+    * class selection menu
+    * team selection menu
+    * build/destroy panels
+    * last life's record panel
 ----
 *version 2.13* (23.03.2012)
   * fixed missing labels in the loadout menu
