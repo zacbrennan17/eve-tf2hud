@@ -1,6 +1,6 @@
 #summary See it in action!
 
-==Class/Team menu==
+==Team/Class menu==
 http://s15.postimage.org/e3cw7jq9l/teammenu.jpg
 http://s15.postimage.org/a0h9uq6rd/classmenu.jpg
 
@@ -23,12 +23,10 @@ http://s15.postimage.org/5yvlbbp2x/arena.jpg
 [http://img4.imageshack.us/img4/2921/ctfturbine0004m.jpg http://img190.imageshack.us/img190/1381/ctfgn.jpg]
 
 (payload race)
-
-http://img703.imageshack.us/img703/6544/plrgamemode.jpg
+http://s10.postimage.org/8aavm8fc7/payloadrace.jpg
 
 (payload)
-
-[http://img801.imageshack.us/img801/1922/payloadfull.jpg http://img94.imageshack.us/img94/1212/payload.jpg]
+http://s10.postimage.org/fp07em17r/payload.jpg
 
 ----
 ==Item switch==
@@ -51,6 +49,7 @@ http://img39.imageshack.us/img39/518/uberchargefull.jpg
 
 ===Charge meters===
 http://s15.postimage.org/gcwf4k9tl/chargemeters.jpg
+http://s16.postimage.org/ltl3me1wz/bowcharge.jpg
 
 ----
 ==Winpanels==
@@ -59,8 +58,8 @@ http://img193.imageshack.us/img193/91/arenawinpanel.jpg
 
 ----
 ==Scoreboard==
-http://img703.imageshack.us/img703/3740/tf220110107202932.jpg
-http://img404.imageshack.us/img404/6513/cpdustbowl0003d.jpg
+http://s14.postimage.org/r2g4kaf6n/scoreboard.jpg
+http://s14.postimage.org/vcusfvk9r/scoreboard_tournament.jpg
 
 ----
 ==Freezecam===
