@@ -1,6 +1,5 @@
 #summary Shows a difference between interface modes.
 
-----
 ==Class specific elements==
 ===Medic===
 http://s9.postimage.org/4j45jhs25/uberchargemin.jpg
