@@ -1,10 +1,5 @@
 #summary See it in action!
 
-==Main elements==
-[http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img854.imageshack.us/img854/6325/playerhealth.jpg]
-[http://img4.imageshack.us/img4/2921/ctfturbine0004m.jpg http://img703.imageshack.us/img703/21/ammoz.jpg]
-
-----
 ==Class/Team menu==
 http://s15.postimage.org/e3cw7jq9l/teammenu.jpg
 http://s15.postimage.org/a0h9uq6rd/classmenu.jpg
