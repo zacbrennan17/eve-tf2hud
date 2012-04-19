@@ -13,6 +13,8 @@
     * team selection menu
     * build/destroy panels
     * last life's record panel
+
+  * screenshots were also updated
 ----
 *version 2.13* (23.03.2012)
   * fixed missing labels in the loadout menu
