@@ -10,8 +10,8 @@ If you want to see all screenshots in full version at once go [http://code.googl
 
 ----
 ==Class/Team menu==
-[http://img713.imageshack.us/img713/4716/classchangefull.jpg http://img38.imageshack.us/img38/2549/classchangeg.jpg]
-[http://img69.imageshack.us/img69/6563/teamchangefull.jpg http://img834.imageshack.us/img834/1570/teamchange.jpg]
+http://s15.postimage.org/e3cw7jq9l/teammenu.jpg
+http://s15.postimage.org/a0h9uq6rd/classmenu.jpg
 
 ----
 ==Target ID==
@@ -21,11 +21,11 @@ If you want to see all screenshots in full version at once go [http://code.googl
 ==Objectives==
 (koth)
 
-[http://img39.imageshack.us/img39/7032/kothfull.jpg http://img838.imageshack.us/img838/5545/koth.jpg]
+http://s15.postimage.org/6d1ionyk9/koth.jpg
 
 (arena)
 
-http://img214.imageshack.us/img214/1252/arenagamemode.jpg
+http://s15.postimage.org/5yvlbbp2x/arena.jpg
 
 (CTF)
 
@@ -41,26 +41,25 @@ http://img703.imageshack.us/img703/6544/plrgamemode.jpg
 
 ----
 ==Item switch==
-[http://img24.imageshack.us/img24/197/quickswitchfull.jpg http://img43.imageshack.us/img43/66/quickswitch.jpg]
+http://s15.postimage.org/65ih5wczd/quickswitch.jpg
 
 ----
 ==Class specific elements==
 ===Spy===
-[http://img828.imageshack.us/img828/5369/disguisekitfull.jpg http://img819.imageshack.us/img819/1358/disguisepanel.jpg]
-[http://img4.imageshack.us/img4/2921/ctfturbine0004m.jpg http://img864.imageshack.us/img864/6245/disguisestatus.jpg]
+http://s15.postimage.org/5joww1sjd/disguisestatus.jpg
+http://s15.postimage.org/7mzc3psc9/disguisekit.jpg
 
 ===Engineer===
-http://img405.imageshack.us/img405/424/buildpanel.jpg
-http://img213.imageshack.us/img213/5190/demolishmenu.jpg
-http://img703.imageshack.us/img703/7097/revengepanel.jpg
-http://img340.imageshack.us/img340/3500/buildingsu.jpg
+http://s15.postimage.org/y09mp0ud5/build.jpg
+http://s15.postimage.org/65dvs5nll/destroy.jpg
+http://s15.postimage.org/9xxe7w33t/build_pipboy.jpg
+http://s15.postimage.org/om8aiz3jt/destroy_pipboy.jpg
 
 ===Medic===
-[http://img39.imageshack.us/img39/518/uberchargefull.jpg http://img651.imageshack.us/img651/7237/ubercharge.jpg]
+http://img39.imageshack.us/img39/518/uberchargefull.jpg
 
 ===Charge meters===
-http://img141.imageshack.us/img141/9011/snipermeters.jpg
-http://img253.imageshack.us/img253/8238/scoutmeters.jpg
+http://s15.postimage.org/gcwf4k9tl/chargemeters.jpg
 
 ----
 ==Winpanels==
@@ -78,16 +77,21 @@ http://img13.imageshack.us/img13/1535/freezecam.jpg
 
 ----
 ==Main menu==
-http://img34.imageshack.us/img34/2827/mainmenun.jpg
-http://img10.imageshack.us/img10/4747/mainmenu2.jpg
+http://s13.postimage.org/wglanfy39/mainmenu.jpg
+http://s15.postimage.org/pkt8z069l/mainmenu2.jpg
 
 ----
 ==Loading screen==
-http://img27.imageshack.us/img27/7936/statsar.jpg
-http://img222.imageshack.us/img222/6942/stats2t.jpg
+http://s15.postimage.org/guw5y5os9/stats.jpg
+http://s15.postimage.org/69cam5igp/stats2.jpg
 
 ----
 ==Server/Map info==
 http://img837.imageshack.us/img837/1094/serverinfog.jpg
 http://img849.imageshack.us/img849/187/mapinfo.jpg
 http://img31.imageshack.us/img31/347/videoinfo.jpg
+
+----
+==Gamepad support==
+http://s15.postimage.org/uqzswavnd/gamepad.jpg
+http://s15.postimage.org/tpzk76ent/gamepad2.jpg
