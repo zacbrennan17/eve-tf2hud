@@ -1,46 +1,46 @@
 #summary See it in action!
 
-==Team/Class menu==
+=Team/Class menu=
 http://s15.postimage.org/e3cw7jq9l/teammenu.jpg
 http://s15.postimage.org/a0h9uq6rd/classmenu.jpg
 
 ----
-==Objectives==
-(koth)
+=Objectives=
+==(koth)==
 
 http://s15.postimage.org/6d1ionyk9/koth.jpg
 
-(arena)
+==(arena)==
 
 http://s15.postimage.org/5yvlbbp2x/arena.jpg
 
-(CTF)
+==(CTF)==
 http://s15.postimage.org/p7c6beny1/ctf.jpg
 http://s15.postimage.org/gdl9ub0zd/ctf2.jpg
 
-(payload race)
+==(payload race)==
 http://s10.postimage.org/8aavm8fc7/payloadrace.jpg
 
-(payload)
+==(payload)==
 http://s10.postimage.org/fp07em17r/payload.jpg
 
 ----
-==Item switch==
+=Item switch=
 http://s15.postimage.org/65ih5wczd/quickswitch.jpg
 
 ----
-==Class specific elements==
-===Spy===
+=Class specific elements=
+==Spy==
 http://s15.postimage.org/5joww1sjd/disguisestatus.jpg
 http://s15.postimage.org/7mzc3psc9/disguisekit.jpg
 
-===Engineer===
+==Engineer==
 http://s15.postimage.org/y09mp0ud5/build.jpg
 http://s15.postimage.org/65dvs5nll/destroy.jpg
 http://s15.postimage.org/9xxe7w33t/build_pipboy.jpg
 http://s15.postimage.org/om8aiz3jt/destroy_pipboy.jpg
 
-===Medic===
+==Medic==
 http://img39.imageshack.us/img39/518/uberchargefull.jpg
 
 ===Charge meters===
@@ -48,36 +48,36 @@ http://s15.postimage.org/gcwf4k9tl/chargemeters.jpg
 http://s16.postimage.org/ltl3me1wz/bowcharge.jpg
 
 ----
-==Winpanels==
+=Winpanels=
 http://img811.imageshack.us/img811/7654/winpanel.jpg
 http://img193.imageshack.us/img193/91/arenawinpanel.jpg
 
 ----
-==Scoreboard==
+=Scoreboard=
 http://s14.postimage.org/r2g4kaf6n/scoreboard.jpg
 http://s14.postimage.org/vcusfvk9r/scoreboard_tournament.jpg
 
 ----
-==Killcam===
+=Killcam=
 http://s15.postimage.org/91boueabd/killcam.jpg
 
 ----
-==Main menu==
+=Main menu=
 http://s13.postimage.org/wglanfy39/mainmenu.jpg
 http://s15.postimage.org/pkt8z069l/mainmenu2.jpg
 
 ----
-==Loading screen==
+=Loading screen=
 http://s15.postimage.org/guw5y5os9/stats.jpg
 http://s15.postimage.org/69cam5igp/stats2.jpg
 
 ----
-==Server/Map info==
+=Server/Map info=
 http://img837.imageshack.us/img837/1094/serverinfog.jpg
 http://img849.imageshack.us/img849/187/mapinfo.jpg
 http://img31.imageshack.us/img31/347/videoinfo.jpg
 
 ----
-==Gamepad support==
+=Gamepad support=
 http://s15.postimage.org/uqzswavnd/gamepad.jpg
 http://s15.postimage.org/tpzk76ent/gamepad2.jpg
