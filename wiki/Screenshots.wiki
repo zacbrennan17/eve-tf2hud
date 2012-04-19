@@ -48,9 +48,8 @@ http://s15.postimage.org/gcwf4k9tl/chargemeters.jpg
 http://s16.postimage.org/ltl3me1wz/bowcharge.jpg
 
 ----
-=Winpanels=
-http://img811.imageshack.us/img811/7654/winpanel.jpg
-http://img193.imageshack.us/img193/91/arenawinpanel.jpg
+=Winpanel=
+http://s10.postimage.org/umnc03tpj/winpanel.jpg
 
 ----
 =Scoreboard=
@@ -60,6 +59,7 @@ http://s14.postimage.org/vcusfvk9r/scoreboard_tournament.jpg
 ----
 =Killcam=
 http://s15.postimage.org/91boueabd/killcam.jpg
+http://s10.postimage.org/3njh4y78n/killcam2.jpg
 
 ----
 =Main menu=
