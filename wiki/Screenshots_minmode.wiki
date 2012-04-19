@@ -1,11 +1,18 @@
 #summary Shows a difference between interface modes.
 
-=Main view=
-http://img441.imageshack.us/img441/2930/pluniverseb40002.jpg
-http://img831.imageshack.us/img831/5456/cpbusytown0004.jpg
+----
+==Class specific elements==
+===Medic===
+http://s9.postimage.org/4j45jhs25/uberchargemin.jpg
+
+===Charge meters===
+http://s13.postimage.org/6775usqqd/chargemetersminmode.jpg
+http://s13.postimage.org/hkkieimhh/bowcharge_minmode.jpg
 
 ----
 =Scoreboard=
+http://s9.postimage.org/vfo4rtavh/scoreboard_minmode.jpg
 
-http://img202.imageshack.us/img202/4711/pluniverseb40001.jpg
-http://img545.imageshack.us/img545/9219/cpdustbowl0002m.jpg
+----
+==Killcam===
+http://s13.postimage.org/9t3sfyic5/killcam_minmode.jpg
