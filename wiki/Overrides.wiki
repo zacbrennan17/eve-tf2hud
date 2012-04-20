@@ -11,7 +11,7 @@ There is one more folder called "overrides". It contains alternative version of 
   # Go to line 441 (or search for "##Kill Notifications##")
   # Change following values to your liking:
   * "!MaxDeathNotices" - maximum number of notifications visible at the same time
-  * "!LineHeight"	- height/size of each notification
+  * "!LineHeight" - height/size of each notification
 
   * 4:3 fixes - this should fix all errors in 4:3 aspect ratio
   * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
@@ -33,4 +33,6 @@ There is one more folder called "overrides". It contains alternative version of 
   * original items colors - restores default colors for items' descriptions
   * prophunt fix - fixes a missing time panel in prophunt/Saxton Hale gamemode
   * scoreboards:
+    * 24p scoreboard (no minmode) - disables an alternative scoreboard in minmode
+    * 32p scoreboard (no minmode) - allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
     * 32p scoreboard (with minmode) - allows you to see up to 32 players on the scoreboard
