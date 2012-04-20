@@ -1,75 +1,73 @@
 #summary See it in action!
 
 =Team/Class menu=
-http://s15.postimage.org/e3cw7jq9l/teammenu.jpg
-http://s15.postimage.org/a0h9uq6rd/classmenu.jpg
+http://sinders.comze.com/hud/normal_mode/teammenu.jpg
+http://sinders.comze.com/hud/normal_mode/classmenu.jpg
 
 ----
 =Objectives=
 ==(koth)==
-
-http://s15.postimage.org/6d1ionyk9/koth.jpg
+http://sinders.comze.com/hud/normal_mode/koth.jpg
 
 ==(arena)==
-
-http://s15.postimage.org/5yvlbbp2x/arena.jpg
+http://sinders.comze.com/hud/normal_mode/arena.jpg
 
 ==(CTF)==
-http://s15.postimage.org/p7c6beny1/ctf.jpg
-http://s15.postimage.org/gdl9ub0zd/ctf2.jpg
+http://sinders.comze.com/hud/normal_mode/ctf.jpg
+http://sinders.comze.com/hud/normal_mode/ctf2.jpg
 
 ==(payload race)==
-http://s10.postimage.org/8aavm8fc7/payloadrace.jpg
+http://sinders.comze.com/hud/normal_mode/payloadrace.jpg
 
 ==(payload)==
-http://s10.postimage.org/fp07em17r/payload.jpg
+http://sinders.comze.com/hud/normal_mode/payload.jpg
 
 ----
 =Item switch=
-http://s15.postimage.org/65ih5wczd/quickswitch.jpg
+http://sinders.comze.com/hud/normal_mode/quickswitch.jpg
 
 ----
 =Class specific elements=
 ==Spy==
-http://s15.postimage.org/5joww1sjd/disguisestatus.jpg
-http://s15.postimage.org/7mzc3psc9/disguisekit.jpg
+http://sinders.comze.com/hud/normal_mode/disguisestatus.jpg
+http://sinders.comze.com/hud/normal_mode/disguisekit.jpg
 
 ==Engineer==
-http://s15.postimage.org/y09mp0ud5/build.jpg
-http://s15.postimage.org/65dvs5nll/destroy.jpg
-http://s15.postimage.org/9xxe7w33t/build_pipboy.jpg
-http://s15.postimage.org/om8aiz3jt/destroy_pipboy.jpg
+http://sinders.comze.com/hud/normal_mode/build.jpg
+http://sinders.comze.com/hud/normal_mode/destroy.jpg
+http://sinders.comze.com/hud/normal_mode/build_pipboy.jpg
+http://sinders.comze.com/hud/normal_mode/destroy_pipboy.jpg
 
 ==Medic==
 http://img39.imageshack.us/img39/518/uberchargefull.jpg
 
 ===Charge meters===
-http://s15.postimage.org/gcwf4k9tl/chargemeters.jpg
-http://s16.postimage.org/ltl3me1wz/bowcharge.jpg
+http://sinders.comze.com/hud/normal_mode/chargemeters.jpg
+http://sinders.comze.com/hud/normal_mode/bowcharge.jpg
 
 ----
 =Winpanel=
-http://s10.postimage.org/umnc03tpj/winpanel.jpg
+http://sinders.comze.com/hud/normal_mode/winpanel.jpg
 
 ----
 =Scoreboard=
-http://s14.postimage.org/r2g4kaf6n/scoreboard.jpg
-http://s14.postimage.org/vcusfvk9r/scoreboard_tournament.jpg
+http://sinders.comze.com/hud/normal_mode/scoreboard.jpg
+http://sinders.comze.com/hud/normal_mode/scoreboard_tournament.jpg
 
 ----
 =Killcam=
-http://s15.postimage.org/91boueabd/killcam.jpg
-http://s10.postimage.org/3njh4y78n/killcam2.jpg
+http://sinders.comze.com/hud/normal_mode/killcam.jpg
+http://sinders.comze.com/hud/normal_mode/killcam2.jpg
 
 ----
 =Main menu=
-http://s13.postimage.org/wglanfy39/mainmenu.jpg
-http://s15.postimage.org/pkt8z069l/mainmenu2.jpg
+http://sinders.comze.com/hud/normal_mode/mainmenu.jpg
+http://sinders.comze.com/hud/normal_mode/mainmenu2.jpg
 
 ----
 =Loading screen=
-http://s15.postimage.org/guw5y5os9/stats.jpg
-http://s15.postimage.org/69cam5igp/stats2.jpg
+http://sinders.comze.com/hud/normal_mode/stats.jpg
+http://sinders.comze.com/hud/normal_mode/stats2.jpg
 
 ----
 =Server/Map info=
@@ -79,5 +77,5 @@ http://img31.imageshack.us/img31/347/videoinfo.jpg
 
 ----
 =Gamepad support=
-http://s15.postimage.org/uqzswavnd/gamepad.jpg
-http://s15.postimage.org/tpzk76ent/gamepad2.jpg
+http://sinders.comze.com/hud/normal_mode/gamepad.jpg
+http://sinders.comze.com/hud/normal_mode/gamepad2.jpg
