@@ -1,5 +1,8 @@
 #summary Patch history.
 
+*version 2.21* (20.04.2012)
+  * added missing scoreboard overrides
+----
 *version 2.20* (19.04.2012)
   * last damage done displayed above your weapon will disappear after 5 seconds
   * scoreboard has been heavily modified (especially the minimalistic version)
