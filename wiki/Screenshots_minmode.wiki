@@ -2,16 +2,16 @@
 
 =Class specific elements=
 ==Medic==
-http://s9.postimage.org/4j45jhs25/uberchargemin.jpg
+http://sinders.comze.com/hud/min_mode/uberchargemin.jpg
 
 ==Charge meters==
-http://s13.postimage.org/6775usqqd/chargemetersminmode.jpg
-http://s13.postimage.org/hkkieimhh/bowcharge_minmode.jpg
+http://sinders.comze.com/hud/min_mode/chargemetersminmode.jpg
+http://sinders.comze.com/hud/min_mode/bowcharge_minmode.jpg
 
 ----
 =Scoreboard=
-http://s9.postimage.org/vfo4rtavh/scoreboard_minmode.jpg
+http://sinders.comze.com/hud/min_mode/scoreboard_minmode.jpg
 
 ----
 =Killcam=
-http://s13.postimage.org/9t3sfyic5/killcam_minmode.jpg
+http://sinders.comze.com/hud/min_mode/killcam_minmode.jpg
