@@ -1,5 +1,9 @@
 #summary Patch history.
 
+*version 2.22* (04.05.2012)
+  * compatibility with a latest TF2 patch
+  * updated the main menu
+----
 *version 2.21* (20.04.2012)
   * added missing scoreboard overrides
 ----
