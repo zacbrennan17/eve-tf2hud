@@ -39,7 +39,7 @@ http://sinders.comze.com/hud/normal_mode/build_pipboy.jpg
 http://sinders.comze.com/hud/normal_mode/destroy_pipboy.jpg
 
 ==Medic==
-http://img39.imageshack.us/img39/518/uberchargefull.jpg
+http://sinders.comze.com/hud/normal_mode/ubercharge.jpg
 
 ===Charge meters===
 http://sinders.comze.com/hud/normal_mode/chargemeters.jpg
@@ -71,9 +71,9 @@ http://sinders.comze.com/hud/normal_mode/stats2.jpg
 
 ----
 =Server/Map info=
-http://img837.imageshack.us/img837/1094/serverinfog.jpg
-http://img849.imageshack.us/img849/187/mapinfo.jpg
-http://img31.imageshack.us/img31/347/videoinfo.jpg
+http://sinders.comze.com/hud/normal_mode/serverinfog.jpg
+http://sinders.comze.com/hud/normal_mode/mapinfo.jpg
+http://sinders.comze.com/hud/normal_mode/videoinfo.jpg
 
 ----
 =Gamepad support=
