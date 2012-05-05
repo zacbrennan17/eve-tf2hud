@@ -71,7 +71,7 @@ http://sinders.comze.com/hud/normal_mode/stats2.jpg
 
 ----
 =Server/Map info=
-http://sinders.comze.com/hud/normal_mode/serverinfog.jpg
+http://sinders.comze.com/hud/normal_mode/serverinfo.jpg
 http://sinders.comze.com/hud/normal_mode/mapinfo.jpg
 http://sinders.comze.com/hud/normal_mode/videoinfo.jpg
 
