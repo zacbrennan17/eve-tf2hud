@@ -1,5 +1,8 @@
 #summary Patch history.
 
+*version 2.30* (22.06.2012)
+
+----
 *version 2.22* (04.05.2012)
   * compatibility with a latest TF2 patch
   * updated the main menu
