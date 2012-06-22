@@ -31,7 +31,7 @@ There is one more folder called "overrides". It contains alternative version of 
   * no last damage done - you won't see last damage done above player's weapon
   * open space main menu - moves menu buttons to the far left
   * original items colors - restores default colors for items' descriptions
-  * prophunt, saxton hale fix - fixes a missing time panel in prophunt/Saxton Hale gamemode
+  * prophunt, saxton hale fix - fixes a missing time panel in prophunt/Saxton Hale game mode
   * scoreboards:
     * 24p scoreboard (no minmode) - disables an alternative scoreboard in minmode
     * 32p scoreboard (no minmode) - allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
