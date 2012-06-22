@@ -29,7 +29,7 @@ http://sinders.comze.com/hud/normal_mode/quickswitch.jpg
 ----
 =Class specific elements=
 ==Spy==
-http://sinders.comze.com/hud/normal_mode/disguisestatus.jpg
+http://sinders.comze.com/hud/normal_mode/disguisestatus2.jpg
 http://sinders.comze.com/hud/normal_mode/disguisekit.jpg
 
 ==Engineer==
