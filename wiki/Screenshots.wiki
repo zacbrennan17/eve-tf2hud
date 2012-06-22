@@ -2,7 +2,7 @@
 
 =Team/Class menu=
 http://sinders.comze.com/hud/normal_mode/teammenu.jpg
-http://sinders.comze.com/hud/normal_mode/classmenu.jpg
+http://sinders.comze.com/hud/normal_mode/classmenu2.jpg
 
 ----
 =Objectives=
@@ -62,7 +62,7 @@ http://sinders.comze.com/hud/normal_mode/killcam2.jpg
 ----
 =Main menu=
 http://sinders.comze.com/hud/normal_mode/mainmenu.jpg
-http://sinders.comze.com/hud/normal_mode/mainmenu2.jpg
+http://sinders.comze.com/hud/normal_mode/mainmenu22.jpg
 
 ----
 =Loading screen=
