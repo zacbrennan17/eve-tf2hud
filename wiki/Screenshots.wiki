@@ -10,7 +10,7 @@ http://sinders.comze.com/hud/normal_mode/classmenu2.jpg
 http://sinders.comze.com/hud/normal_mode/koth.jpg
 
 ==(arena)==
-http://sinders.comze.com/hud/normal_mode/arena.jpg
+http://sinders.comze.com/hud/normal_mode/arena2.jpg
 
 ==(CTF)==
 http://sinders.comze.com/hud/normal_mode/ctf.jpg
