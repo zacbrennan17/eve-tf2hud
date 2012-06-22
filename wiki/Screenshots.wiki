@@ -52,6 +52,9 @@ http://sinders.comze.com/hud/normal_mode/winpanel.jpg
 ----
 =Scoreboard=
 http://sinders.comze.com/hud/normal_mode/scoreboard.jpg
+
+----
+=Tournament mode=
 http://sinders.comze.com/hud/normal_mode/scoreboard_tournament2.jpg
 
 ----
