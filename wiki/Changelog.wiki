@@ -1,5 +1,8 @@
 #summary Patch history.
 
+*version 2.31* (23.06.2012)
+  * health highlights should now properly disappear
+----
 *version 2.30* (22.06.2012)
   * health values all over the hud are now highlighted using various colors
   * class selection menu now allows you to enter loadouts
