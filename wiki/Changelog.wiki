@@ -14,6 +14,7 @@
   * small tweaks and fixes for:
     * charge meters
     * coach panel
+    * ubercharge meter
   * other bugfixes
 ----
 *version 2.33* (28.06.2012)
