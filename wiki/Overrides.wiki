@@ -7,32 +7,32 @@ _Steam/steamapps/yourusername/team fortress 2/tf/_
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
  * how to change a number or a size of kill notifications:
-  # Open tf\scripts\hudlayout.res
-  # Go to line 441 (or search for "##Kill Notifications##")
+  # Open tf\scripts\hudlayout.res.
+  # Search for "##Kill Notifications##".
   # Change following values to your liking:
-  * "!MaxDeathNotices" - maximum number of notifications visible at the same time
-  * "!LineHeight" - height/size of each notification
+  * "!MaxDeathNotices" – maximum number of notifications visible at the same time
+  * "!LineHeight" – height/size of each notification
 
-  * 4:3 fixes - this should fix all errors in 4:3 aspect ratio
-  * alt Pip-Boy screens - this will change a color of the Pip-Boy's build menus
-    * amber
-    * blue
-    * disabled - standard build menus
-    * green (restore default)
-  * alternative damage colors and sizes - this will change color/size of damage values:
+  * 4:3 fixes – this should fix all errors in 4:3 aspect ratio
+  * alternative damage colors and sizes – this will change color/size of damage values:
     * big/standard
       * pink as hell
       * red
       * turquoise 
       * yellow
-  * engie buildings with borders - adds borders around buildings' status panels
-  * more visible player's health - adds a border around player's current health (yes, I made it look like that)
-  * no health or ammo animation - removes an animation when low on health or ammo
-  * no last damage done - you won't see last damage done above player's weapon
-  * open space main menu - moves menu buttons to the far left
-  * original items colors - restores default colors for items' descriptions
-  * prophunt, saxton hale fix - fixes a missing time panel in prophunt/Saxton Hale game mode
+  * alt Pip-Boy screens – this will change a color of the Pip-Boy's build menus
+    * amber
+    * blue
+    * disabled – standard build menus
+    * green (restore default)
+  * center ubercharge – ubercharge metter will be placed under your crosshair
+  * more visible player's health – adds a border around player's current health (yes, I made it look like that)
+  * no health or ammo animation – removes an animation when low on health or ammo
+  * no last damage done – you won't see last damage done above your weapon
+  * left align main menu – aligns buttons to the left, for frequent console users
+  * original items colors – restores default colors for items' descriptions
+  * prophunt, saxton hale fix – fixes a missing time panel in the prophunt/Saxton Hale game mode
   * scoreboards:
-    * 24p scoreboard (no minmode) - disables an alternative scoreboard in minmode
-    * 32p scoreboard (no minmode) - allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
-    * 32p scoreboard (with minmode) - allows you to see up to 32 players on the scoreboard
+    * 24p scoreboard (no minmode) – disables an alternative scoreboard in minmode
+    * 32p scoreboard (no minmode) – allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
+    * 32p scoreboard (with minmode) – allows you to see up to 32 players on the scoreboard
