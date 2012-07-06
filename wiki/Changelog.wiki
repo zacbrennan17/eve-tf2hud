@@ -1,7 +1,20 @@
 #summary Patch history.
 
 *version 2.40* (06.07.2012)
-  * coming soon
+  * new target id panels with bigger health number, as requested by some users
+  * updated spy's disguise status panel
+  * updated pipboy build menus, they should now work on servers with sv_pure 1
+  * backpack enhancements:
+    * you can now switch pages using A and D keys
+    * after opening loadouts from the class selection menu you can press E again to close it
+  * overrides changes:
+    * added - "center ubercharge" - ubercharge meter will be placed under your crosshair
+    * renamed - "open space main menu" to "left align main menu"
+    * removed - "engie buildings with borders"
+  * small tweaks and fixes for:
+    * charge meters
+    * coach panel
+  * other bugfixes
 ----
 *version 2.33* (28.06.2012)
   * added some details to the focus charge meter
