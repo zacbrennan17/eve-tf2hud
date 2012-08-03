@@ -1,5 +1,8 @@
 #summary Patch history.
 
+*version 2.41* (03.08.2012)
+  * added the Cleaver's charge meter
+----
 *version 2.40* (06.07.2012)
   * new target id panels with bigger health number, as requested by some users
   * updated spy's disguise status panel
