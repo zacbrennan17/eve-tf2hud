@@ -1,5 +1,7 @@
 #summary Patch history.
-
+*version 2.50* (16.08.2012)
+  * compatibility with the Mann versus Machine update
+----
 *version 2.41* (03.08.2012)
   * added the Cleaver's charge meter
 ----
