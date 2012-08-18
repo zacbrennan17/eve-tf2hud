@@ -1,4 +1,14 @@
 #summary Patch history.
+*version 2.54* (18.08.2012)
+  * lobbies now are displayed properly for 4:3 users
+  * fixes a few bugs experienced by OSX users (hopefully)
+  * changed a lot of MvM panels (scoreboard still needs work)
+  * other bugfixes
+  * overrides changes:
+    * scoreboards are back
+    * left aligned main menu - now available for 4:3 users
+    * added - no class avatars - removes your class' avatar near your health
+----
 *version 2.50* (16.08.2012)
   * compatibility with the Mann versus Machine update
 
