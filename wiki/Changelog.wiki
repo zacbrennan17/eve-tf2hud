@@ -1,4 +1,12 @@
 #summary Patch history.
+*version 2.56* (20.08.2012)
+  * new scoreboard for the MvM mode
+  * other bugfixes
+  * overrides changes:
+    * alternative damage colors, sizes, location - you can now place your damage done above your health
+    * no class avatars - you can now see an avatar of a class that you are disguised as
+    * no last damage done - you can now change colors of the floating damage
+----
 *version 2.54* (18.08.2012)
   * lobbies now are displayed properly for 4:3 users
   * fixes a few bugs experienced by OSX users (hopefully), thanks "lopl"
