@@ -64,8 +64,8 @@ http://sinders.comze.com/hud/normal_mode/killcam2.jpg
 
 ----
 =Main menu=
-http://sinders.comze.com/hud/normal_mode/mainmenu.jpg
-http://sinders.comze.com/hud/normal_mode/mainmenu22.jpg
+http://sinders.comze.com/hud/normal_mode/mainmenu2.jpg
+http://sinders.comze.com/hud/normal_mode/mainmenu23.jpg
 
 ----
 =Loading screen=
