@@ -13,14 +13,15 @@ There is one more folder called "overrides". It contains alternative version of 
   * "!MaxDeathNotices" – maximum number of notifications visible at the same time
   * "!LineHeight" – height/size of each notification
 
-  * 4:3 fixes – this should fix all errors in 4:3 aspect ratio
-  * alternative damage colors and sizes – this will change color/size of damage values:
-    * big/standard
-      * pink as hell
-      * red
-      * turquoise 
-      * yellow
-  * alt Pip-Boy screens – this will change a color of the Pip-Boy's build menus
+  * 4:3 fixes – this should fix all errors in a 4:3 aspect ratio
+  * alternative damage colors and sizes – this will change color/size/location of damage values:
+    * left side/right side
+      * big/standard
+        * pink as hell
+        * red
+        * turquoise 
+        * yellow
+  * alternative Pip-Boy screens – this will change a color of the Pip-Boy's build menus
     * amber
     * blue
     * disabled – standard build menus
@@ -36,4 +37,4 @@ There is one more folder called "overrides". It contains alternative version of 
   * scoreboards:
     * 24p scoreboard (no minmode) – disables an alternative scoreboard in minmode
     * 32p scoreboard (no minmode) – allows you to see up to 32 players on the scoreboard and disables an alternative scoreboard in minmode
-    * 32p scoreboard (with minmode) – allows you to see up to 32 players on the scoreboard
+    * 32p scoreboard (with minmode) – allows you to see up to 32 players on the scoreboard and you keep an alternative version in minmode
