@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.57* (24.08.2012)
+  * compatibility with a latest TF2 patch
+----
 *version 2.56* (20.08.2012)
   * new scoreboard for the MvM mode
   * other bugfixes
