@@ -1,4 +1,15 @@
 #summary Patch history.
+
+*version 2.59* (28.08.2012)
+  * small changes to the scoreboards
+    * they are now also smaller in both modes
+  * changed backgrounds for all panels that display information about items, this includes:
+    * backpack
+    * spectating panel
+    * killcam panel
+  * loading screen now displays MvM backgrounds
+  * other bugfixes
+----
 *version 2.57* (24.08.2012)
   * compatibility with a latest TF2 patch
 ----
