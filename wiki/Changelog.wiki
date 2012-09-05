@@ -1,5 +1,7 @@
 #summary Patch history.
-
+*version 2.60* (05.09.2012)
+  * updated items description panels' backgrounds for readability
+----
 *version 2.59* (28.08.2012)
   * small changes to the scoreboards
     * they are now also smaller in both modes
