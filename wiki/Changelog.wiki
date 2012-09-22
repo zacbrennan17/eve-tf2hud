@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.62* (22.09.2012)
+  * compatibility with a latest TF2 patch
+  * small fix for mac users (thanks Jamzo)
+  * other bugfixes
+----
 *version 2.60* (05.09.2012)
   * updated items description panels' backgrounds for readability
 ----
