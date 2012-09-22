@@ -5,7 +5,9 @@ Inside archive you'll find a folder called "HUD". Extract its contents ("resourc
 _Steam/steamapps/yourusername/team fortress 2/tf/_
 ==Overrides==
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
-Each override contains "resource" or "scripts" folder (sometimes both). Copy them to your game's folder, just like you did while installing the hud.
+
+Each override contains "resource" or "scripts" folder (sometimes both).
+ Copy them to your game's folder, just like you did while installing the hud.
 
  * how to change a number or a size of kill notifications:
   # Open tf\scripts\hudlayout.res.
