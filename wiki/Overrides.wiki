@@ -6,7 +6,7 @@ _Steam/steamapps/yourusername/team fortress 2/tf/_
 ==Overrides==
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
-Each override contains "resource" or "scripts" folder (sometimes both).
+Each override contains "resource" or "scripts" folders (sometimes both).
 
 Copy them to your game's folder, just like you did while installing the hud.
 
