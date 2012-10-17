@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.65* (17.10.2012)
+  * updated stop watch panel per user's request
+----
 *version 2.63* (10.10.2012)
   * compatibility with a latest TF2 patch
 ----
