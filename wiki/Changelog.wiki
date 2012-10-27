@@ -1,4 +1,7 @@
 #summary Patch history.
+*version 2.68* (27.10.2012)
+  * Halloween update!
+----
 *version 2.66* (18.10.2012)
   * compatibility with a latest TF2 patch
 ----
