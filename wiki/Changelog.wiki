@@ -3,6 +3,7 @@
   * compatibility with the Big Picture Mode:
     * team menu doesn't work very well with a controller, I'll fix it later
   * fixed the stop watch panel
+  * other bugfixes
 ----
 *version 2.76* (30.11.2012)
   * added missing charge meters
