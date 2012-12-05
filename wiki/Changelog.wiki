@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.78* (05.12.2012)
+  * compatibility with the Big Picture Mode:
+    * team menu doesn't work very well with a controller, I'll fix it later
+  * fixed the stop watch panel
+----
 *version 2.76* (30.11.2012)
   * added missing charge meters
 ----
@@ -24,7 +29,7 @@
   * compatibility with a latest TF2 patch
 ----
 *version 2.65* (17.10.2012)
-  * updated stop watch panel per user's request
+  * updated the stop watch panel per user's request
   * other small changes
 ----
 *version 2.63* (10.10.2012)
