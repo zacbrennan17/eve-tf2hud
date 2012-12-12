@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 2.79* (12.12.2012)
+  * compatibility with a latest TF2 patch
+  * minor bugfixes
+----
 *version 2.78* (05.12.2012)
   * compatibility with the Big Picture Mode:
     * team menu doesn't work very well with a controller, I'll fix it later
