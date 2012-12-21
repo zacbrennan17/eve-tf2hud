@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.82* (21.12.2012)
+  * compatibility with a latest TF2 patch
+  * added new Ubercharge meter for the new medigun
+  * minor bugfixes and tweaks
+----
 *version 2.79* (12.12.2012)
   * compatibility with a latest TF2 patch
   * minor bugfixes
