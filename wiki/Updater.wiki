@@ -1,5 +1,15 @@
 #summary More about the HUD Updater.
+Download, install, update and modify the e.v.e HUD with ease.
+----
+Features:
 
+  * it can find your game's location
+  * all overrides can be changed from the settings menu
+  * pick your own color for some of the hud elements
+  * run the updater with a specially crafted shortcut and it will update the hud in the background and then start the game for you
+  * it will create a backup of your files on the first run
+----
+=Screenshots=
 http://s13.postimage.org/fhsgwa04n/main.jpg
 http://s13.postimage.org/g9v4vh4br/settings.jpg
 http://s13.postimage.org/u29jr3v3b/settings_2.jpg
