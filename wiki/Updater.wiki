@@ -1,7 +1,7 @@
 #summary More about the HUD Updater.
 Download, install, update and modify the e.v.e HUD with ease.
 ----
-Features:
+==Features:==
 
   * it can find your game's location
   * all overrides can be changed from the settings menu
