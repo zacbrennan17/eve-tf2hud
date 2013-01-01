@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.84* (01.01.2013)
+  * updated the center ubercharge override
+  * fixed Loose Cannon's charge meter
+  * minor bugfixes and tweaks
+----
 *version 2.82* (21.12.2012)
   * compatibility with a latest TF2 patch
   * added new Ubercharge meter for the new medigun
