@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 2.86* (17.01.2013)
+  * Vaccinator's icon is now visible once again
+  * minor bugfixes and tweaks
+----
 *version 2.84* (01.01.2013)
   * updated the center ubercharge override
   * fixed Loose Cannon's charge meter
