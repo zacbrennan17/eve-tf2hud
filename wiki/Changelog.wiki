@@ -1,5 +1,8 @@
 #summary Patch history.
 *version 2.86* (17.01.2013)
+  * compatibility with a latest TF2 patch
+----
+*version 2.86* (17.01.2013)
   * Vaccinator's icon is now visible once again
   * minor bugfixes and tweaks
 ----
