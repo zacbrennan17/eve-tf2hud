@@ -1,5 +1,5 @@
 #summary Patch history.
-*version 2.86* (17.01.2013)
+*version 2.87* (02.02.2013)
   * compatibility with a latest TF2 patch
 ----
 *version 2.86* (17.01.2013)
