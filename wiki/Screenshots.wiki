@@ -1,7 +1,7 @@
 #summary See it in action!
 
 =Team/Class menu=
-[sinders.comze.com/hud/normal_mode/teammenu.jpg http://sinders.comze.com/hud/normal_mode/teammenu.jpg]
+[http://sinders.comze.com/hud/normal_mode/teammenu.jpg http://sinders.comze.com/hud/normal_mode/teammenu.jpg&nonsense=a.png]
 http://sinders.comze.com/hud/normal_mode/classmenu2.jpg
 
 ----
