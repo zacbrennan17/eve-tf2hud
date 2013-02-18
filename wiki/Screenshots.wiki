@@ -22,6 +22,11 @@ http://sinders.comze.com/hud/normal_mode/payloadrace.jpg
 ==(payload)==
 http://sinders.comze.com/hud/normal_mode/payload.jpg
 
+==(MvM)==
+http://sinders.comze.com/hud/normal_mode/mvmreadyup.jpg
+http://sinders.comze.com/hud/normal_mode/dead666.jpg
+http://sinders.comze.com/hud/normal_mode/mvmdead.jpg
+
 ----
 =Item switch ("bind key +quickswitch")=
 http://sinders.comze.com/hud/normal_mode/quickswitch.jpg
