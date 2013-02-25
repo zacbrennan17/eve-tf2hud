@@ -1,4 +1,5 @@
 #summary See it in action!
+#labels Featured
 
 =Team/Class menu=
 http://sinders.comze.com/hud/normal_mode/teammenu.jpg
