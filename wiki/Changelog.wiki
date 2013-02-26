@@ -1,4 +1,17 @@
 #summary Patch history.
+*version 2.95* (26.02.2013)
+  * crosshairs (created by Broesel) - check the "!ReadMe.txt" for details
+  * hit marks:
+    * there's a new visual indicator that appears when you hit an enemy
+    * can be disabled by using the "no last damage done" override
+  * updated the chat window
+  * health gains are now displayed in blue instead of green
+  * small changes to the stickybomb counter
+  * minor bugfixes and tweaks
+
+  * known bugs:
+    * Updater will fail to install the "center ubercharge" override
+----
 *version 2.87* (02.02.2013)
   * compatibility with a latest TF2 patch
 ----
