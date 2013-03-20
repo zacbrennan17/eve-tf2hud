@@ -1,6 +1,6 @@
 #summary Patch history.
 *version 2.96* (20.03.2013)
-  * updated the ReadMe.txt
+  * updated the !ReadMe.txt
   * hit marks are now disabled by default
   * minor bugfixes and tweaks
 ----
