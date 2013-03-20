@@ -1,4 +1,9 @@
 #summary Patch history.
+*version 2.96* (20.03.2013)
+  * updated the ReadMe.txt
+  * hit marks are now disabled by default
+  * minor bugfixes and tweaks
+----
 *version 2.95* (26.02.2013)
   * crosshairs (created by Broesel) - check the "!ReadMe.txt" for details
   * hit marks:
