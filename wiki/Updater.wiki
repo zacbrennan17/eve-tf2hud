@@ -3,8 +3,7 @@
 Download, install, update and modify the e.v.e HUD with ease.
 ----
 ==Version==
-===1.1, 03.03.13===
-====[https://code.google.com/p/eve-tf2hud/downloads/detail?name=HUD%20Updater%20v1.1.zip Download]====
+===(03.03.13) Version 1.1 [https://code.google.com/p/eve-tf2hud/downloads/detail?name=HUD%20Updater%20v1.1.zip Download]====
 ==Features:==
 
   * it can find your game's location
