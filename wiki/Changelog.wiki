@@ -1,6 +1,6 @@
 #summary Patch history.
 *version 2.97* (28.03.2013)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * updated the !ReadMe.txt
 ----
 *version 2.96* (20.03.2013)
@@ -22,7 +22,7 @@
     * Updater will fail to install the "center ubercharge" override
 ----
 *version 2.87* (02.02.2013)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 2.86* (17.01.2013)
   * Vaccinator's icon is now visible once again
@@ -34,12 +34,12 @@
   * minor bugfixes and tweaks
 ----
 *version 2.82* (21.12.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * added new Ubercharge meter for the new medigun
   * minor bugfixes and tweaks
 ----
 *version 2.79* (12.12.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * minor bugfixes
 ----
 *version 2.78* (05.12.2012)
@@ -61,7 +61,7 @@
   * other bugfixes
 ----
 *version 2.70* (02.11.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 2.69* (29.10.2012)
   * fixed haunted items' color
@@ -70,17 +70,17 @@
   * Halloween update!
 ----
 *version 2.66* (18.10.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 2.65* (17.10.2012)
   * updated the stop watch panel per user's request
   * other small changes
 ----
 *version 2.63* (10.10.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 2.62* (22.09.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * small fix for mac users (thanks Jamzo)
   * other bugfixes
 ----
@@ -98,7 +98,7 @@
   * other bugfixes
 ----
 *version 2.57* (24.08.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 2.56* (20.08.2012)
   * new scoreboard for the MvM mode
@@ -179,7 +179,7 @@
   * screenshots were also updated
 ----
 *version 2.22* (04.05.2012)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * updated the main menu
 ----
 *version 2.21* (20.04.2012)
@@ -234,7 +234,7 @@
   * main menu now supports the full moon background
 ----
 *version 2.04* (28.10.2011)
-  * compatibility with a latest TF2 patch (Scream Fortress)
+  * compatibility with the latest TF2 patch (Scream Fortress)
   * shield's charge meter now has a background
 ----
 *version 2.02* (21.10.2011)
@@ -249,21 +249,21 @@
   * "close" button in backpack panels is back
 ----
 *version 1.99* (14.10.2011)
-  * compatibility with a latest TF2 patch (Manniversary Update)
+  * compatibility with the latest TF2 patch (Manniversary Update)
 
   * a few things you should know:
     * class selection menu got crippled by this update
     * there are other small things that still need to be fixed
 ----
 *version 1.94* (16.09.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * sticky bomb counter is now slightly larger
 ----
 *version 1.93* (07.09.2011)
   * update for new store pages
 ----
 *version 1.92* (03.09.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 1.91* (21.08.2011)
   * support for the Diamondback's crits counter
@@ -286,12 +286,12 @@
     * "prophunt fix" override
 ----
 *version 1.82* (21.07.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * added charge meters for new WETA weapons - [http://img684.imageshack.us/img684/6122/cpcoldfront0000.jpg image]
   * further tweaks for 4:3 resolutions
 ----
 *version 1.80* (19.07.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * tweaks and fixes for:
     * flag status - should now work in all custom maps
     * team menus
@@ -308,7 +308,7 @@
     * more visible player's health - now includes additional health status in a target id panel
 ----
 *version 1.72* (01.07.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * tweaks for:
     * build menu
     * hype meter
@@ -318,7 +318,7 @@
   * removed a few language dependencies
 ----
 *version 1.70* (24.06.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * updated for all new additions brought by the Uber Update
     * over hyped hype meter
     * sniper's headshot counter
@@ -338,7 +338,7 @@
 
 ----
 *version 1.62* (19.05.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * tweaks for:
     * main menu
     * killcam panel
@@ -346,7 +346,7 @@
     * TF2 Beta - allows you to use this HUD in TF2 Beta (instead of a separate download)
 ----
 *version 1.60* (06.05.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * fixed some bugs reported by users
   * tweaks for:
     * main menu - that's right, no more annoying clapping
@@ -363,7 +363,7 @@
     * original items colors - restores default colors for items' descriptions
 ----
 *version 1.50* (15.04.2011)
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * around 30 bug fixes to various HUD elements
   * small tweaks for:
     * killcam panel
@@ -388,7 +388,7 @@
 ----
 *version 1.30* (11.03.2011)
 
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * main menu changes ("show promo codes" button)
   * small tweaks for:
     * tournament spectator panel
@@ -401,7 +401,7 @@
 ----
 *version 1.22* (04.02.2011)
 
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
   * small tweaks for a team/class menu
 ----
 *version 1.20* (23.01.2011)
@@ -415,7 +415,7 @@
 ----
 *version 1.11* (20.01.2011)
 
-  * compatibility with a latest TF2 patch
+  * compatibility with the latest TF2 patch
 ----
 *version 1.10* (18.01.2011)
 
