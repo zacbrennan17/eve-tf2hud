@@ -1,4 +1,8 @@
 #summary Patch history.
+*version 2.97* (28.03.2013)
+  * compatibility with a latest TF2 patch
+  * updated the !ReadMe.txt
+----
 *version 2.96* (20.03.2013)
   * updated the !ReadMe.txt
   * hit marks are now disabled by default
