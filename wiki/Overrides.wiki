@@ -15,7 +15,7 @@ Inside the downloaded archive you'll find a folder called *"hud"*. Extract its c
 ~/.local/share/Steam/!SteamApps/(your steam username)/team fortress 2/tf/</code>
 
 =Overrides=
-There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
+There is one more folder called "overrides". It contains alternative version of files that will allow you to change various components.
 
 Each override contains *"resource"* and/or *"scripts"* folders.
 
