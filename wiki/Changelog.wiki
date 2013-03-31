@@ -1,5 +1,5 @@
 #summary Patch history.
-#labels changelog
+#labels Changelog
 *version 2.97* (28.03.2013)
   * compatibility with the latest TF2 patch
   * updated the !ReadMe.txt
