@@ -1,12 +1,23 @@
 #summary How to customize this hud.
-==How to install==
-Inside archive you'll find a folder called "HUD". Extract its contents ("resource" and "script" folders) to the following location
+=How to install=
+Inside the downloaded archive you'll find a folder called *"hud"*. Extract its contents (*"resource"* and *"scripts"* folders) to the following location:
 
-_Steam/steamapps/yourusername/team fortress 2/tf/_
-==Overrides==
+ * Windows:
+<code language="xml">
+~\Steam\steamapps\(your steam username)\team fortress 2\tf\</code>
+
+ * Mac:
+<code language="xml">
+~/Library/Application Support/Steam/!SteamApps/(your steam username)/team fortress 2/tf/</code>
+
+ * Linux:
+<code language="xml">
+~/.local/share/Steam/!SteamApps/(your steam username)/team fortress 2/tf/</code>
+
+=Overrides=
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various elements.
 
-Each override contains "resource" and/or "scripts" folders.
+Each override contains *"resource"* and/or *"scripts"* folders.
 
 Copy them to your game's folder, just like you did while installing the hud.
 
