@@ -9,7 +9,7 @@ Download, install, update and modify the e.v.e HUD with ease.
 
   * it can find your game's location
   * all overrides can be changed from the settings menu
-  * pick your own colors for some of the hud elements
+  * pick your own colors for some of the hud's elements
   * run the updater with a specially crafted shortcut and it will update the hud in the background and then start the game for you
   * it will create a backup of your files on the first run
   * it will work even while offline, provided that you used it at least once
