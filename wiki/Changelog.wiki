@@ -1,5 +1,21 @@
 #summary Patch history.
 #labels Changelog
+*version 3.00* (26.04.2013)
+  * compatibility with the latest TF2 patch (!SteamPipe)
+  * updated the !ReadMe.txt
+  * updated voting menus and panels
+  * updated tournament spectator panels
+  * some labels should no longer be cropped when displaying longer text
+  * health gains are now displayed in green again
+  * overrides changes:
+    * reorganized some of overrides
+    * new override - bigger fonts - increases the font size of your health and ammo
+    * removed the "original items colors" override
+  * minor tweaks and fixes for:
+    * loading menus
+    * kill cam
+  * other bugfixes 
+----
 *version 2.97* (28.03.2013)
   * compatibility with the latest TF2 patch
   * updated the !ReadMe.txt
