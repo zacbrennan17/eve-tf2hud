@@ -1,25 +1,25 @@
 #summary How to customize this hud.
 =How to install=
-Inside the downloaded archive you'll find a folder called *"hud"*. Extract its contents (*"resource"* and *"scripts"* folders) to the following location:
+Inside the archive you'll find a folder called *"eve hud"*. Move it to the following location:
 
  * Windows:
 <code language="xml">
-~\Steam\steamapps\(your steam username)\team fortress 2\tf\</code>
+~\Steam\steamapps\common\Team Fortress 2\tf\custom</code>
 
  * Mac:
 <code language="xml">
-~/Library/Application Support/Steam/SteamApps/(your steam username)/team fortress 2/tf/</code>
+~/Library/Application Support/Steam/SteamApps/common/Team Fortress 2/tf/custom</code>
 
  * Linux:
 <code language="xml">
-~/.local/share/Steam/SteamApps/(your steam username)/team fortress 2/tf/</code>
+~/.local/share/Steam/SteamApps/common/Team Fortress 2/tf/custom</code>
 
 =Overrides=
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various components.
 
 Each override contains *"resource"* and/or *"scripts"* folders.
 
-Copy them to the *"tf"* folder, just like you did while installing the hud.
+Copy them to the *"eve hud"* folder. 
 
  * how to change a number or a size of kill notifications:
   # Open tf\scripts\hudlayout.res.
@@ -41,13 +41,14 @@ Copy them to the *"tf"* folder, just like you did while installing the hud.
     * blue
     * disabled – standard build menus
     * green (restore default)
-  * center ubercharge – ubercharge meter will be placed under your crosshair
-  * more visible player's health – adds a border around player's current health (yes, I made it look like that)
-  * no class avatars - removes your class' avatar near your health
-  * no health or ammo animation – removes an animation when low on health or ammo
-  * no last damage done – you won't see last damage done above your weapon
+  * centered ubercharge – ubercharge meter will be placed under your crosshair
+  * health and ammo:
+    * bigger fonts - increases the font size of your health and ammo
+    * borders – adds a border around player's current health (yes, I made it look like that)
+    * no animation – removes an animation when low on health or ammo
   * left align main menu – aligns buttons to the left, for frequent console users
-  * original items colors – restores default colors for items' descriptions
+  * no class avatars - removes your class' avatar near your health
+  * no last damage done – you won't see last damage done above your weapon
   * prophunt, Saxton hale fix – fixes a missing time panel in the prophunt/Saxton Hale game mode
   * scoreboards:
     * 24p scoreboard (no minmode) – disables an alternative scoreboard in minmode
