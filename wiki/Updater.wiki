@@ -20,6 +20,8 @@ Download, install, update and modify the e.v.e HUD with ease.
   * [http://www.microsoft.com/en-us/download/details.aspx?id=17851 Microsoft .NET Framework 4]
 ----
 =Screenshots=
-http://s13.postimage.org/fhsgwa04n/main.jpg
-http://s13.postimage.org/g9v4vh4br/settings.jpg
-http://s13.postimage.org/u29jr3v3b/settings_2.jpg
+http://s13.postimg.org/3on6d3xpz/main.jpg
+http://s13.postimg.org/fiuxaqvzr/settings1.jpg
+http://s13.postimg.org/lfysrkd4n/settings2.jpg
+http://s13.postimg.org/w5chjtoxj/settings3.jpg
+http://s13.postimg.org/ft2fu3alz/settings4.jpg
