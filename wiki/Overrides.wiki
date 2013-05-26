@@ -14,6 +14,9 @@ Inside the archive you'll find a folder called *"eve hud"*. Move it to the follo
 <code language="xml">
 ~/.local/share/Steam/SteamApps/common/Team Fortress 2/tf/custom</code>
 
+=How to uninstall=
+Remove the "eve hud" folder from your "custom" folder.
+
 =Overrides=
 There is one more folder called "overrides". It contains alternative version of files that will allow you to change various components.
 
