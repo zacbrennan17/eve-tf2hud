@@ -24,5 +24,6 @@ It's a program for Windows that can automate the process of installing and manag
 = Known Issues =
 Do not complain about these issues, unless you explicitly know how to fix them.
 
-==[http://code.google.com/p/eve-tf2hud/issues/detail?id=8 Health's or ammo's shadow stays red]==
+==Health's or ammo's shadow stays red==
 ==Demoman's charge meter has no background==
+==Level 3 Sentry's health in MVM mode is displayed in blue==
