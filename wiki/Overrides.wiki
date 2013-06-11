@@ -42,8 +42,8 @@ Copy them to the *"eve hud"* folder.
   * alternative Pip-Boy screens – this will change a color of the Pip-Boy's build menus
     * amber
     * blue
-    * disabled – standard build menus
-    * green (restore default)
+    * disabled – use standard build menus
+  * bigger chat font - increases the font size of chat messages
   * centered ubercharge – ubercharge meter will be placed under your crosshair
   * health and ammo:
     * bigger fonts - increases the font size of your health and ammo
