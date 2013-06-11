@@ -1,5 +1,11 @@
 #summary Patch history.
 #labels Changelog
+*version 3.08* (11.06.2013)
+  * added an aiming guide
+  * new override:
+    * bigger chat font
+  * minor bugfixes
+----
 *version 3.05* (06.06.2013)
   * compatibility with the latest TF2 patch
   * minor bugfixes
