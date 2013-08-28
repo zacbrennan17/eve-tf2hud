@@ -1,6 +1,8 @@
 #summary Patch history.
 #labels Changelog
-
+*version 3.12* (28.08.2013)
+  * compatibility with the latest TF2 patch
+----
 *version 3.11* (12.07.2013)
   * fixed the Cow Mangler's charge meter
 ----
