@@ -1,0 +1,5 @@
+#summary Patch history.
+#labels Changelog
+*version 1.4* (28.08.2013)
+  * 12345
+----
