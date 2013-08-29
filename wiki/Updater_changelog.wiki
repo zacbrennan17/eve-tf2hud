@@ -1,5 +1,10 @@
 #summary Patch history.
 #labels Changelog
+*version 1.5* (29.08.2013)
+  * You can now install the hud as a .vpk
+  * Updater will ask if you want to see the changelogs
+  * Other bugfixes
+----
 *version 1.4* (11.06.2013)
   * New overrides are now supported
   * Updated the UI
