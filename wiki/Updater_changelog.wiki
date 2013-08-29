@@ -11,9 +11,11 @@
   * Self updating should work properly now
   * Single exe
   * Other bugfixes
+----
 *version 1.2* (30.04.2013)
-  * SteamPipe compatibility
+  * !SteamPipe compatibility
   * Other bugfixes
+----
 *version 1.1* (03.03.2013)
   * updater can now find and install new versions of itself
   * better error reporting
@@ -23,5 +25,6 @@
   * reorganized the settings window
   * color picker now supports an alpha value
   * other bugfixes
+----
 *version 1.0* (29.12.2012)
   * Initial release
