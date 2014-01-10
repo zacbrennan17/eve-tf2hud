@@ -1,5 +1,8 @@
 #summary Patch history.
 #labels Changelog
+*version 3.33* (10.01.2014)
+  * updated the loadout menu
+----
 *version 3.32* (27.12.2013)
   * fixed the mvm scoreboard
   * fixed unusual effect sliders
