@@ -1,6 +1,6 @@
 #summary Patch history.
 #labels Changelog
-*version 1.6* (14.10.2014)
+*version 1.6* (14.01.2014)
   * minor bugfixes
 ----
 *version 1.5* (29.08.2013)
