@@ -1,5 +1,8 @@
 #summary Patch history.
 #labels Changelog
+*version 1.6* (14.10.2014)
+  * minor bugfixes
+----
 *version 1.5* (29.08.2013)
   * You can now install the hud as a .vpk
   * Updater will ask if you want to see the changelogs
