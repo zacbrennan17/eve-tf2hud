@@ -1,5 +1,10 @@
 #summary Patch history.
 #labels Changelog
+*version 3.42* (01.04.2014)
+  * fixed the backpack menu
+  * new override for those that enjoyed previous update:
+    * comic sans font
+----
 *version 3.41* (01.04.2014)
   * completely new font for the whole interface
 ----
