@@ -1,5 +1,10 @@
 #summary Patch history.
 #labels Changelog
+*version 3.45* (12.06.2014)
+  * compatibility with the latest TF2 patch
+  * you can now freely preview characters in the loadout screen
+  * bugfixes
+----
 *version 3.42* (01.04.2014)
   * fixed the backpack menu
   * new override for those that enjoyed previous update:
