@@ -1,6 +1,9 @@
 #summary Patch history.
 #labels Changelog
 
+*version 3.48* (25.06.2014)
+  * added a workaround for overlapping bow's charge meters
+----
 *version 3.47* (20.06.2014)
   * Giants' health in MvM is no longer cut off (thanks Jötunn)
 ----
