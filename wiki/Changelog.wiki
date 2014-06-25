@@ -5,7 +5,7 @@
   * Giants' health in MvM is no longer cut off (thanks Jötunn)
 ----
 *version 3.46* (19.06.2014)
-  * compatibility with the latest TF2 patch
+  * compatibility with the latest TF2 patch (Love & War)
 ----
 *version 3.45* (12.06.2014)
   * compatibility with the latest TF2 patch
