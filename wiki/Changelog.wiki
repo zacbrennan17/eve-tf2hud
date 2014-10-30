@@ -2,7 +2,12 @@
 #labels Changelog
 
 *version 3.50* (26.09.2014)
+  * compatibility with the latest TF2 patch (Halloween 2014)
+  * bugfixes
+----
+*version 3.50* (26.09.2014)
   * compatibility with the latest TF2 patch
+  * bugfixes
 ----
 *version 3.48* (25.06.2014)
   * added a workaround for overlapping bow's charge meters
