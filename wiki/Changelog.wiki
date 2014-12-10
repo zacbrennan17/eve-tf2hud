@@ -4,7 +4,6 @@
 *version 3.53* (10.12.2014)
   * compatibility with the latest TF2 patch (End of the Line)
 ----
-*version 3.
 *version 3.52* (30.10.2014)
   * compatibility with the latest TF2 patch (Halloween 2014)
   * bugfixes
