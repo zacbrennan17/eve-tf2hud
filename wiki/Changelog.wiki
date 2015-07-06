@@ -1,6 +1,9 @@
 #summary Patch history.
 #labels Changelog
 
+*version 3.62* (06.07.2015)
+  * updated scoreboards
+----
 *version 3.61* (05.07.2015)
   * only for the people that are using the Updater, I uploaded a wrong file by accident
 ----
